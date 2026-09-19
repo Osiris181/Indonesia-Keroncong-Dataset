@@ -31,8 +31,6 @@ EXPERIMENTS = (
     ("temporal_five_label_musicfm_pitch", "musicfm_pitch", "MusicFM + pitch"),
 )
 OVERALL_FIELDS = (
-    "exact_match_accuracy",
-    "hamming_accuracy",
     "macro_precision",
     "macro_recall",
     "macro_f1",
@@ -254,7 +252,7 @@ def main() -> None:
             "Aggregation: mean +/- sample standard deviation across completed models",
             "Support: unique test syllables across completed folds",
             "",
-            "scope\texact-acc\thamming-acc\tprecision\trecall\tF1-Score\tmAP\tROC-AUC\tthreshold\tsupport",
+            "scope\tprecision\trecall\tF1-Score\tmAP\tROC-AUC\tthreshold\tsupport",
         ]
         values = [
             formatted([float(metrics[field]) for metrics in metrics_by_model])
@@ -269,7 +267,7 @@ def main() -> None:
                 for field in LABEL_FIELDS
             ]
             support = int(unique_target_matrix[:, label_index].sum())
-            lines.append("\t".join([label, "--", "--", *label_values, str(support)]))
+            lines.append("\t".join([label, *label_values, str(support)]))
         text_sections.append("\n".join(lines))
 
     output_dir = args.output_dir.resolve()

@@ -13,7 +13,7 @@
       "start_sec": 1.0,
       "end_sec": 39.0,
       "rhythmic_patterns": [
-        "lainnya"
+        "other"
       ],
       "uncertain": false,
       "note": "idk, gamelan stuff."
@@ -33,7 +33,7 @@
       "start_sec": 121.0,
       "end_sec": 138.0,
       "rhythmic_patterns": [
-        "lainnya"
+        "other"
       ],
       "uncertain": false,
       "note": "idk, maybe ko’thekan."
@@ -53,7 +53,7 @@
       "start_sec": 154.0,
       "end_sec": 171.0,
       "rhythmic_patterns": [
-        "lainnya"
+        "other"
       ],
       "uncertain": false,
       "note": null
@@ -74,7 +74,7 @@
       "end_sec": 253.0,
       "rhythmic_patterns": [
         "double",
-        "lainnya"
+        "other"
       ],
       "uncertain": false,
       "note": null
@@ -84,7 +84,7 @@
       "start_sec": 253.0,
       "end_sec": 270.0,
       "rhythmic_patterns": [
-        "lainnya"
+        "other"
       ],
       "uncertain": false,
       "note": "Ko’thekan maybe"
@@ -104,7 +104,7 @@
       "start_sec": 279.0,
       "end_sec": 293.0,
       "rhythmic_patterns": [
-        "lainnya"
+        "other"
       ],
       "uncertain": false,
       "note": "idk, gamelan stuff."

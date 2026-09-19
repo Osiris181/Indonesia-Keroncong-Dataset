@@ -495,12 +495,6 @@ def calculate_metrics(
         }
     return {
         "sample_count": int(integer_targets.shape[0]),
-        "exact_match_accuracy": float(
-            np.all(integer_targets == binary_predictions, axis=1).mean()
-        ),
-        "hamming_accuracy": float(
-            np.equal(integer_targets, binary_predictions).mean()
-        ),
         "macro_precision": float(np.mean(precisions)),
         "macro_recall": float(np.mean(recalls)),
         "macro_f1": float(

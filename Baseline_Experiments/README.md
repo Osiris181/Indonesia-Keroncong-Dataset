@@ -1,6 +1,6 @@
 # IKD baseline experiments
 
-This directory contains one self-contained entry point for each benchmark in
+This directory contains each benchmark's reproducability that are stated in
 the IKD paper. Shared dataset and reproducibility utilities live in `data/`
 and `common/`; task-specific models, configurations, generated outputs, and
 compact result tables remain inside each task directory.
@@ -26,4 +26,3 @@ corresponding `results/` directory.
 The classification experiment uses the fixed performer-grouped rotations in
 `../IKD_Dataset/Splits/`. Task-specific differences are recorded explicitly
 instead of being hidden in a single multi-purpose training script.
-

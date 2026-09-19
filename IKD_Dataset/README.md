@@ -2,19 +2,23 @@
 
 This folder contains the final release of the 30-song Indonesian Keroncong
 Dataset (IKD), including track metadata, word- and syllable-level annotations,
-vocal-technique events, performer-group metadata, and fixed evaluation splits.
+vocal-technique events, rhythmic-pattern annotations, performer-group metadata,
+and fixed evaluation splits.
 
 ## Use these files
 
 - `Indonesian_Keroncong_Dataset.csv` is the 30-track index.
   Its `annotation_file` column points to the full annotation JSON for each
   track. Its `melisma_events_file` and `melisma_event_ids` fields point to the
-  final human-reviewed melisma events.
+  final human-reviewed melisma events. Its `rhythmic_patterns_file` field
+  points to the section-level rhythmic-pattern annotation for each track.
 - `Song_Annotations/` contains one complete JSON file per song. Each file has
   metadata, audio details, words, their nested syllables, melisma labels, Luk
   directions, and the derived event list.
 - `Melisma_Events/` contains one compact, final melisma-event JSON file per
   song.
+- `Rhythmic_Pattern_Annotations/` contains one section-level rhythmic-pattern
+  JSON file per song.
 - `Indonesian_Keroncong_Dataset_events.jsonl` combines every
   reviewed event into one JSON Lines file.
 - `performer_group_resolution.csv` preserves the source artist value and the
@@ -39,7 +43,13 @@ available:
 uv pip install yt-dlp pandas tqdm demucs
 ```
 
-If you previously have yt-dlp in your environment, ensure that you installed the newest version of yt-dlp to avoid the HTTP Error 403. Then you can run the download script from the repository root:
+If you encounter an HTTP 403 error, update `yt-dlp` before downloading, especially when reusing an
+existing environment:
+
+```bash
+uv pip install --upgrade yt-dlp
+```
+Then run the download script from the repository root:
 
 ```bash
 python IKD_Dataset/Scripts/download_script.py
@@ -66,6 +76,10 @@ IKD_Dataset/
         └── no_vocals.wav
 ```
 
+`no_vocals.wav` is the residual accompaniment stem produced automatically by
+HT-Demucs in two-stem vocal-separation mode. We did not use this residual accompaniment
+in our experiments
+
 Pass `IKD_Dataset/Audio/` as `--audio-root` to the baseline scripts. The
 directory is excluded by the release `.gitignore`. Availability and content at external
 URLs may change, and users are responsible for observing the source platform
@@ -89,8 +103,10 @@ terms and applicable copyright conditions.
 
 ## Dataset statistics
 
-The final release contains 2,952 words, 6,772 syllables, 3,559 reviewed vocal-
-technique events, and 1,590 explicit Luk directions.
+The final release contains 2,943 lexical words, nine non-lexical segments,
+6,772 syllables, 3,559 reviewed vocal-technique events, and 1,590 explicit Luk
+directions. Of the syllables, 2,676 contain at least one vocal technique,
+4,096 contain no technique, and 736 contain multiple technique labels.
 
 | Technique | Number of annotations |
 |---|---:|
@@ -100,6 +116,9 @@ technique events, and 1,590 explicit Luk directions.
 | `embat` | 563 |
 | `nggandhul` | 351 |
 | **Total** | **3,559** |
+
+The rhythmic annotations contain 86 section annotations: 35 `engkel`, 31
+`double`, and 20 `other` label occurrences.
 
 The CSV `track_duration_sec` values are synchronized to the duration of the
 annotated source audio; the original source CSV remains unchanged.
