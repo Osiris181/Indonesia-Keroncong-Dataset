@@ -1,0 +1,11 @@
+{
+  "schema_version": "IKD_rhythmic_pattern_annotations_v1",
+  "track_id": "IKD_009",
+  "time_unit": "seconds",
+  "time_resolution_sec": 1.0,
+  "meters": [],
+  "meter_uncertain": false,
+  "general_note": "There is no specific engkel/double rhythm in the song.",
+  "segment_count": 0,
+  "segments": []
+}

@@ -1,0 +1,6132 @@
+{
+  "schema_version": "IKD_song_annotation_v1",
+  "track_id": "IKD_025",
+  "metadata": {
+    "title": "STB. Jauh Di mata",
+    "creator": "Tuti Tri Sedya - Topic",
+    "artist": "Tuti Tri Sedya",
+    "release_year": 1998,
+    "era_bin": "1980_1999",
+    "source_type": "studio_professional",
+    "preview_url": "https://www.youtube.com/watch?v=GfiKJfUOd-M",
+    "genre": "Stambul",
+    "remark": null,
+    "lyrics_language": "indonesian",
+    "artist_source_value": "Tuty Tri Sedya",
+    "performer_group_id": "Tuti Tri Sedya",
+    "performer_group_status": "confirmed_user"
+  },
+  "audio": {
+    "duration_sec": 261.12
+  },
+  "annotation_status": "completed",
+  "provenance": {
+    "automatic_proposal_fields_included": false,
+    "manual_corrections": []
+  },
+  "words": [
+    {
+      "source_region_id": "IKD_025_word_0",
+      "text": "oh",
+      "start_sec": 0.6146796870255171,
+      "end_sec": 2.4541958922491562,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_0_syll_0",
+          "text": "oh",
+          "start_sec": 0.615,
+          "end_sec": 2.451750598450742,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0001"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_1",
+      "text": "jauh",
+      "start_sec": 2.4650711914745274,
+      "end_sec": 3.21,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_1_syll_0",
+          "text": "jauh",
+          "start_sec": 2.4675164852729417,
+          "end_sec": 3.21,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_2",
+      "text": "di",
+      "start_sec": 3.26,
+      "end_sec": 3.55,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_2_syll_0",
+          "text": "di",
+          "start_sec": 3.26,
+          "end_sec": 3.55,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_3",
+      "text": "mata",
+      "start_sec": 3.6,
+      "end_sec": 5.9908607308154025,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_3_syll_0",
+          "text": "ma",
+          "start_sec": 3.6,
+          "end_sec": 4.373198748828949,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0002"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_3_syll_1",
+          "text": "ta",
+          "start_sec": 4.375644042627363,
+          "end_sec": 5.9908607308154025,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_4",
+      "text": "dalam",
+      "start_sec": 6.601,
+      "end_sec": 7.831,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_4_syll_0",
+          "text": "da",
+          "start_sec": 6.601,
+          "end_sec": 6.9909823178255746,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_4_syll_1",
+          "text": "lam",
+          "start_sec": 6.9909823178255746,
+          "end_sec": 7.831,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_5",
+      "text": "kenangan",
+      "start_sec": 7.881,
+      "end_sec": 9.90511045331292,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_5_syll_0",
+          "text": "ke",
+          "start_sec": 7.881,
+          "end_sec": 8.252989962011302,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_5_syll_1",
+          "text": "na",
+          "start_sec": 8.252989962011302,
+          "end_sec": 8.483895837979588,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_5_syll_2",
+          "text": "ngan",
+          "start_sec": 8.48389583797959,
+          "end_sec": 9.905,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_6",
+      "text": "wajahmu",
+      "start_sec": 10.293954479292069,
+      "end_sec": 11.650683587349082,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_6_syll_0",
+          "text": "wa",
+          "start_sec": 10.294,
+          "end_sec": 10.745765886822198,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_6_syll_1",
+          "text": "jah",
+          "start_sec": 10.748211180620613,
+          "end_sec": 11.084,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_6_syll_2",
+          "text": "mu",
+          "start_sec": 11.084,
+          "end_sec": 11.650683587349082,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_7",
+      "text": "tetap",
+      "start_sec": 11.668717169803879,
+      "end_sec": 12.59987314382473,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_7_syll_0",
+          "text": "te",
+          "start_sec": 11.669,
+          "end_sec": 12.110201142631919,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_7_syll_1",
+          "text": "tap",
+          "start_sec": 12.110201142631919,
+          "end_sec": 12.59987314382473,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_8",
+      "text": "terbayang",
+      "start_sec": 12.63708657680665,
+      "end_sec": 17.67982461408209,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_8_syll_0",
+          "text": "ter",
+          "start_sec": 12.63708657680665,
+          "end_sec": 13.461,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0003"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_8_syll_1",
+          "text": "ba",
+          "start_sec": 13.461,
+          "end_sec": 14.085959385268389,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0004",
+            "IKD_025_E0005"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_8_syll_2",
+          "text": "yang",
+          "start_sec": 14.085959385268389,
+          "end_sec": 17.67982461408209,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_9",
+      "text": "sungguh",
+      "start_sec": 20.04626865963838,
+      "end_sec": 21.732,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_9_syll_0",
+          "text": "sung",
+          "start_sec": 20.04626865963838,
+          "end_sec": 21.372987568208334,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0006"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_9_syll_1",
+          "text": "guh",
+          "start_sec": 21.372987568208334,
+          "end_sec": 21.732,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0007"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_10",
+      "text": "berat",
+      "start_sec": 21.782,
+      "end_sec": 22.51528059789151,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_10_syll_0",
+          "text": "be",
+          "start_sec": 21.782,
+          "end_sec": 22.09530291084936,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_10_syll_1",
+          "text": "rat",
+          "start_sec": 22.097748204647772,
+          "end_sec": 22.515,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_11",
+      "text": "kita",
+      "start_sec": 22.642,
+      "end_sec": 25.992,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_11_syll_0",
+          "text": "ki",
+          "start_sec": 22.642,
+          "end_sec": 25.02376441857288,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "gregel",
+            "embat",
+            "nggandhul"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0008",
+            "IKD_025_E0009",
+            "IKD_025_E0010",
+            "IKD_025_E0011"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_11_syll_1",
+          "text": "ta",
+          "start_sec": 25.026209712371298,
+          "end_sec": 25.992,
+          "channel": 0,
+          "melisma_labels": [
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0012"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_12",
+      "text": "berpisah",
+      "start_sec": 26.042,
+      "end_sec": 27.752335824547973,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_12_syll_0",
+          "text": "ber",
+          "start_sec": 26.042,
+          "end_sec": 26.625292872860662,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_12_syll_1",
+          "text": "pi",
+          "start_sec": 26.62773816665908,
+          "end_sec": 26.823277584489208,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_12_syll_2",
+          "text": "sah",
+          "start_sec": 26.823277584489208,
+          "end_sec": 27.752,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_13",
+      "text": "air",
+      "start_sec": 28.122,
+      "end_sec": 28.852,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_13_syll_0",
+          "text": "air",
+          "start_sec": 28.122,
+          "end_sec": 28.852,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_14",
+      "text": "mataku",
+      "start_sec": 28.902,
+      "end_sec": 30.092,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_14_syll_0",
+          "text": "ma",
+          "start_sec": 28.902,
+          "end_sec": 29.220814260621772,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_14_syll_1",
+          "text": "ta",
+          "start_sec": 29.22314276568458,
+          "end_sec": 29.618366912748844,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_14_syll_2",
+          "text": "ku",
+          "start_sec": 29.618366912748844,
+          "end_sec": 30.092,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_15",
+      "text": "titik",
+      "start_sec": 30.142,
+      "end_sec": 31.052,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_15_syll_0",
+          "text": "ti",
+          "start_sec": 30.142,
+          "end_sec": 30.485323792198866,
+          "channel": 0,
+          "melisma_labels": [
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0013"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_15_syll_1",
+          "text": "tik",
+          "start_sec": 30.485323792198866,
+          "end_sec": 31.052,
+          "channel": 0,
+          "melisma_labels": [
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0014"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_16",
+      "text": "berlina",
+      "start_sec": 31.102,
+      "end_sec": 36.11456265135754,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_16_syll_0",
+          "text": "ber",
+          "start_sec": 31.102,
+          "end_sec": 31.383,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_16_syll_1",
+          "text": "li",
+          "start_sec": 31.383,
+          "end_sec": 32.373867147237675,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok",
+            "nggandhul"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0015",
+            "IKD_025_E0016",
+            "IKD_025_E0017"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_16_syll_2",
+          "text": "na",
+          "start_sec": 32.373867147237675,
+          "end_sec": 36.11456265135754,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0018"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_17",
+      "text": "oh",
+      "start_sec": 38.087033372698656,
+      "end_sec": 39.568996732096245,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_17_syll_0",
+          "text": "oh",
+          "start_sec": 38.087033372698656,
+          "end_sec": 39.568996732096245,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0019"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_18",
+      "text": "kabar",
+      "start_sec": 39.56998130789631,
+      "end_sec": 40.40017133989415,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_18_syll_0",
+          "text": "ka",
+          "start_sec": 39.57,
+          "end_sec": 39.94682801565404,
+          "channel": 0,
+          "melisma_labels": [
+            "embat",
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0020",
+            "IKD_025_E0021"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_18_syll_1",
+          "text": "bar",
+          "start_sec": 39.94847136504893,
+          "end_sec": 40.4,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_19",
+      "text": "berita",
+      "start_sec": 40.423,
+      "end_sec": 43.31844622552144,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_19_syll_0",
+          "text": "be",
+          "start_sec": 40.423,
+          "end_sec": 40.72593960469794,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_19_syll_1",
+          "text": "ri",
+          "start_sec": 40.72593960469794,
+          "end_sec": 41.1999003829632,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0022"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_19_syll_2",
+          "text": "ta",
+          "start_sec": 41.1999003829632,
+          "end_sec": 43.318,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_20",
+      "text": "kirimkan",
+      "start_sec": 43.883,
+      "end_sec": 44.921147567276414,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_20_syll_0",
+          "text": "ki",
+          "start_sec": 43.883,
+          "end_sec": 44.13190162181573,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0023"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_20_syll_1",
+          "text": "rim",
+          "start_sec": 44.133461397691526,
+          "end_sec": 44.63560088415794,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_20_syll_2",
+          "text": "kan",
+          "start_sec": 44.63560088415794,
+          "end_sec": 44.91958779140061,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_21",
+      "text": "saja",
+      "start_sec": 44.92279451512656,
+      "end_sec": 46.594,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_21_syll_0",
+          "text": "sa",
+          "start_sec": 44.92435429100236,
+          "end_sec": 45.448053553344586,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0024"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_21_syll_1",
+          "text": "ja",
+          "start_sec": 45.448053553344586,
+          "end_sec": 46.594,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel",
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0025",
+            "IKD_025_E0026"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_22",
+      "text": "di",
+      "start_sec": 46.644,
+      "end_sec": 46.954,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_22_syll_0",
+          "text": "di",
+          "start_sec": 46.644,
+          "end_sec": 46.954,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0027"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_23",
+      "text": "angin",
+      "start_sec": 47.004,
+      "end_sec": 47.794,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_23_syll_0",
+          "text": "a",
+          "start_sec": 47.004,
+          "end_sec": 47.207,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0028",
+            "IKD_025_E0029"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_23_syll_1",
+          "text": "ngin",
+          "start_sec": 47.207,
+          "end_sec": 47.794,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0030"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_24",
+      "text": "melayang",
+      "start_sec": 47.844,
+      "end_sec": 53.16481550578114,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_24_syll_0",
+          "text": "me",
+          "start_sec": 47.844,
+          "end_sec": 48.76409609496558,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_24_syll_1",
+          "text": "la",
+          "start_sec": 48.769090300702544,
+          "end_sec": 49.49348190308322,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0031"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_24_syll_2",
+          "text": "yang",
+          "start_sec": 49.49348190308322,
+          "end_sec": 53.16481550578114,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0032"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_25",
+      "text": "bila",
+      "start_sec": 54.04343928860775,
+      "end_sec": 56.314,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_25_syll_0",
+          "text": "bi",
+          "start_sec": 54.04343928860775,
+          "end_sec": 55.41345676608123,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0033"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_25_syll_1",
+          "text": "la",
+          "start_sec": 55.41345676608123,
+          "end_sec": 56.314,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0034"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_26",
+      "text": "ingin",
+      "start_sec": 56.364,
+      "end_sec": 57.074,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_26_syll_0",
+          "text": "i",
+          "start_sec": 56.364,
+          "end_sec": 56.51150867549992,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_26_syll_1",
+          "text": "ngin",
+          "start_sec": 56.51150867549992,
+          "end_sec": 57.074,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_27",
+      "text": "berjumpa",
+      "start_sec": 57.124,
+      "end_sec": 60.41294490691688,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_27_syll_0",
+          "text": "ber",
+          "start_sec": 57.124,
+          "end_sec": 58.34346254974784,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok",
+            "gregel",
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0035",
+            "IKD_025_E0036",
+            "IKD_025_E0037"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_27_syll_1",
+          "text": "jum",
+          "start_sec": 58.34346254974784,
+          "end_sec": 58.973751589497446,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok",
+            "nggandhul"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0038",
+            "IKD_025_E0039",
+            "IKD_025_E0040"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_27_syll_2",
+          "text": "pa",
+          "start_sec": 58.973751589497446,
+          "end_sec": 60.41294490691688,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_28",
+      "text": "kirimkan",
+      "start_sec": 61.785,
+      "end_sec": 62.935,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_28_syll_0",
+          "text": "ki",
+          "start_sec": 61.785,
+          "end_sec": 62.148,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_28_syll_1",
+          "text": "rim",
+          "start_sec": 62.148,
+          "end_sec": 62.592,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_28_syll_2",
+          "text": "kan",
+          "start_sec": 62.592,
+          "end_sec": 62.935,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_29",
+      "text": "rindu",
+      "start_sec": 62.985,
+      "end_sec": 64.215,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_29_syll_0",
+          "text": "rin",
+          "start_sec": 62.985,
+          "end_sec": 63.399395965791456,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_29_syll_1",
+          "text": "du",
+          "start_sec": 63.399395965791456,
+          "end_sec": 64.215,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_30",
+      "text": "hatimu",
+      "start_sec": 64.265,
+      "end_sec": 66.35872181928256,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_30_syll_0",
+          "text": "ha",
+          "start_sec": 64.265,
+          "end_sec": 65.04317633004115,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0041"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_30_syll_1",
+          "text": "ti",
+          "start_sec": 65.04317633004115,
+          "end_sec": 65.44523995037383,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0042"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_30_syll_2",
+          "text": "mu",
+          "start_sec": 65.44523995037383,
+          "end_sec": 66.35872181928256,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0043"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_31",
+      "text": "di",
+      "start_sec": 66.845,
+      "end_sec": 67.175,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_31_syll_0",
+          "text": "di",
+          "start_sec": 66.845,
+          "end_sec": 67.175,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0044"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_32",
+      "text": "awan",
+      "start_sec": 67.225,
+      "end_sec": 67.975,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_32_syll_0",
+          "text": "a",
+          "start_sec": 67.225,
+          "end_sec": 67.45389885762475,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_32_syll_1",
+          "text": "wan",
+          "start_sec": 67.45389885762475,
+          "end_sec": 67.975,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_33",
+      "text": "petang",
+      "start_sec": 68.025,
+      "end_sec": 71.97007722014051,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_33_syll_0",
+          "text": "pe",
+          "start_sec": 68.025,
+          "end_sec": 68.766,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "nggandhul"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0045",
+            "IKD_025_E0046"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_33_syll_1",
+          "text": "tang",
+          "start_sec": 68.766,
+          "end_sec": 71.97,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok",
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0047",
+            "IKD_025_E0048"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_34",
+      "text": "tenangkan",
+      "start_sec": 74.08517385873128,
+      "end_sec": 76.42532789110201,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_34_syll_0",
+          "text": "te",
+          "start_sec": 74.08517385873128,
+          "end_sec": 75.63188655324694,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0049"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_34_syll_1",
+          "text": "nang",
+          "start_sec": 75.63188655324694,
+          "end_sec": 76.10467627064469,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_34_syll_2",
+          "text": "kan",
+          "start_sec": 76.10609765075857,
+          "end_sec": 76.425,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_35",
+      "text": "hatimu",
+      "start_sec": 76.43475492905687,
+      "end_sec": 78.72868142429094,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_35_syll_0",
+          "text": "ha",
+          "start_sec": 76.435,
+          "end_sec": 77.01535046509998,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_35_syll_1",
+          "text": "ti",
+          "start_sec": 77.01957195310858,
+          "end_sec": 77.66746622634606,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0050",
+            "IKD_025_E0051"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_35_syll_2",
+          "text": "mu",
+          "start_sec": 77.66746622634606,
+          "end_sec": 78.72868142429094,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_36",
+      "text": "pergilah",
+      "start_sec": 79.206,
+      "end_sec": 80.536,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_36_syll_0",
+          "text": "per",
+          "start_sec": 79.206,
+          "end_sec": 79.569,
+          "channel": 0,
+          "melisma_labels": [
+            "embat",
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0052",
+            "IKD_025_E0053"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_36_syll_1",
+          "text": "gi",
+          "start_sec": 79.569,
+          "end_sec": 80.04038350471328,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_36_syll_2",
+          "text": "lah",
+          "start_sec": 80.04038350471328,
+          "end_sec": 80.536,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_37",
+      "text": "engkau",
+      "start_sec": 80.586,
+      "end_sec": 81.956,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_37_syll_0",
+          "text": "eng",
+          "start_sec": 80.586,
+          "end_sec": 80.82578511991406,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_37_syll_1",
+          "text": "kau",
+          "start_sec": 80.82578511991406,
+          "end_sec": 81.956,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0054"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_38",
+      "text": "kasihku",
+      "start_sec": 82.006,
+      "end_sec": 83.676,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_38_syll_0",
+          "text": "ka",
+          "start_sec": 82.006,
+          "end_sec": 82.2099588713525,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0055"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_38_syll_1",
+          "text": "sih",
+          "start_sec": 82.2099588713525,
+          "end_sec": 82.84091888048188,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0056"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_38_syll_2",
+          "text": "ku",
+          "start_sec": 82.84104281260416,
+          "end_sec": 83.676,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_39",
+      "text": "pergi",
+      "start_sec": 83.726,
+      "end_sec": 84.436,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_39_syll_0",
+          "text": "per",
+          "start_sec": 83.726,
+          "end_sec": 84.05374192134417,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0057"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_39_syll_1",
+          "text": "gi",
+          "start_sec": 84.05735371173535,
+          "end_sec": 84.436,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_40",
+      "text": "berjalan",
+      "start_sec": 84.486,
+      "end_sec": 89.01247972047776,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_40_syll_0",
+          "text": "ber",
+          "start_sec": 84.486,
+          "end_sec": 85.668,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok",
+            "gregel",
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0058",
+            "IKD_025_E0059",
+            "IKD_025_E0060"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_40_syll_1",
+          "text": "ja",
+          "start_sec": 85.668,
+          "end_sec": 86.35866288180615,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok",
+            "gregel"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0061",
+            "IKD_025_E0062",
+            "IKD_025_E0063"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_40_syll_2",
+          "text": "lan",
+          "start_sec": 86.35866288180615,
+          "end_sec": 89.012,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0064"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_41",
+      "text": "dan",
+      "start_sec": 89.64060048333664,
+      "end_sec": 90.98188094847434,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_41_syll_0",
+          "text": "dan",
+          "start_sec": 89.641,
+          "end_sec": 90.98188094847434,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0065",
+            "IKD_025_E0066"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_42",
+      "text": "aku",
+      "start_sec": 91.00030794238891,
+      "end_sec": 91.38021086537265,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_42_syll_0",
+          "text": "a",
+          "start_sec": 91.00030794238891,
+          "end_sec": 91.07711790391178,
+          "channel": 0,
+          "melisma_labels": [
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0067"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_42_syll_1",
+          "text": "ku",
+          "start_sec": 91.08072969430296,
+          "end_sec": 91.37997554591759,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_43",
+      "text": "menunggu",
+      "start_sec": 91.38021086537265,
+      "end_sec": 94.73945249198088,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_43_syll_0",
+          "text": "me",
+          "start_sec": 91.38478530729624,
+          "end_sec": 91.77963547823181,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0068"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_43_syll_1",
+          "text": "nung",
+          "start_sec": 91.77963547823181,
+          "end_sec": 92.215,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_43_syll_2",
+          "text": "gu",
+          "start_sec": 92.215,
+          "end_sec": 94.739,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "gregel"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0069",
+            "IKD_025_E0070"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_44",
+      "text": "selamanya",
+      "start_sec": 94.84090300235646,
+      "end_sec": 97.26209919290669,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_44_syll_0",
+          "text": "se",
+          "start_sec": 94.841,
+          "end_sec": 95.71180388967119,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok",
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0071",
+            "IKD_025_E0072"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_44_syll_1",
+          "text": "la",
+          "start_sec": 95.71180388967119,
+          "end_sec": 96.20268567171443,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0073"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_44_syll_2",
+          "text": "ma",
+          "start_sec": 96.20461894866853,
+          "end_sec": 96.5782838696872,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_44_syll_3",
+          "text": "nya",
+          "start_sec": 96.5782838696872,
+          "end_sec": 97.262,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_45",
+      "text": "selagi",
+      "start_sec": 97.52500881759931,
+      "end_sec": 98.738,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_45_syll_0",
+          "text": "se",
+          "start_sec": 97.52500881759931,
+          "end_sec": 97.99996427241076,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0074"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_45_syll_1",
+          "text": "la",
+          "start_sec": 97.99996427241076,
+          "end_sec": 98.4593446750554,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0075"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_45_syll_2",
+          "text": "gi",
+          "start_sec": 98.4593446750554,
+          "end_sec": 98.738,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_46",
+      "text": "hayat",
+      "start_sec": 98.788,
+      "end_sec": 100.198,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_46_syll_0",
+          "text": "ha",
+          "start_sec": 98.788,
+          "end_sec": 99.1250449235801,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_46_syll_1",
+          "text": "yat",
+          "start_sec": 99.1250449235801,
+          "end_sec": 100.198,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0076"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_47",
+      "text": "dikandung",
+      "start_sec": 100.248,
+      "end_sec": 101.558,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_47_syll_0",
+          "text": "di",
+          "start_sec": 100.248,
+          "end_sec": 100.62383777806225,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0077",
+            "IKD_025_E0078"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_47_syll_1",
+          "text": "kan",
+          "start_sec": 100.62383777806225,
+          "end_sec": 101.0881732571268,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_47_syll_2",
+          "text": "dung",
+          "start_sec": 101.09071496211008,
+          "end_sec": 101.558,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_48",
+      "text": "badan",
+      "start_sec": 101.608,
+      "end_sec": 106.94936550261546,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_48_syll_0",
+          "text": "ba",
+          "start_sec": 101.608,
+          "end_sec": 103.14593682121331,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok",
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0079",
+            "IKD_025_E0080"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_48_syll_1",
+          "text": "dan",
+          "start_sec": 103.14593682121331,
+          "end_sec": 106.949,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0081"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_49",
+      "text": "kekasih",
+      "start_sec": 110.00583599393929,
+      "end_sec": 112.299,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_49_syll_0",
+          "text": "ke",
+          "start_sec": 110.006,
+          "end_sec": 111.5732310550941,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0082",
+            "IKD_025_E0083"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_49_syll_1",
+          "text": "ka",
+          "start_sec": 111.5732310550941,
+          "end_sec": 111.82860777934238,
+          "channel": 0,
+          "melisma_labels": [
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0084"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_49_syll_2",
+          "text": "sih",
+          "start_sec": 111.82860777934238,
+          "end_sec": 112.299,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_50",
+      "text": "hatiku",
+      "start_sec": 112.349,
+      "end_sec": 114.82285638027682,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_50_syll_0",
+          "text": "ha",
+          "start_sec": 112.349,
+          "end_sec": 112.8127965328785,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_50_syll_1",
+          "text": "ti",
+          "start_sec": 112.8153382378618,
+          "end_sec": 113.23305044117463,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0085",
+            "IKD_025_E0086"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_50_syll_2",
+          "text": "ku",
+          "start_sec": 113.23305044117463,
+          "end_sec": 114.82285638027682,
+          "channel": 0,
+          "melisma_labels": [
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0087"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_51",
+      "text": "selamat",
+      "start_sec": 115.03031612828018,
+      "end_sec": 116.559,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_51_syll_0",
+          "text": "se",
+          "start_sec": 115.03031612828018,
+          "end_sec": 115.72462971294532,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0088",
+            "IKD_025_E0089"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_51_syll_1",
+          "text": "la",
+          "start_sec": 115.72717141792862,
+          "end_sec": 116.14100551759452,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_51_syll_2",
+          "text": "mat",
+          "start_sec": 116.14100551759452,
+          "end_sec": 116.559,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_52",
+      "text": "engkau",
+      "start_sec": 116.609,
+      "end_sec": 118.27224431841859,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_52_syll_0",
+          "text": "eng",
+          "start_sec": 116.609,
+          "end_sec": 116.84979101528398,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0090",
+            "IKD_025_E0091"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_52_syll_1",
+          "text": "kau",
+          "start_sec": 116.85233272026727,
+          "end_sec": 118.272,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0092"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_53",
+      "text": "dalam",
+      "start_sec": 118.68215231385486,
+      "end_sec": 120.079,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_53_syll_0",
+          "text": "da",
+          "start_sec": 118.68215231385486,
+          "end_sec": 119.06733639866363,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0093",
+            "IKD_025_E0094"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_53_syll_1",
+          "text": "lam",
+          "start_sec": 119.06987810364693,
+          "end_sec": 120.079,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0095"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_54",
+      "text": "perjalanan",
+      "start_sec": 120.129,
+      "end_sec": 125.01959494841016,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_54_syll_0",
+          "text": "per",
+          "start_sec": 120.129,
+          "end_sec": 120.48733088106911,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_54_syll_1",
+          "text": "ja",
+          "start_sec": 120.4898725860524,
+          "end_sec": 121.99297162920347,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok",
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0096",
+            "IKD_025_E0097"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_54_syll_2",
+          "text": "la",
+          "start_sec": 121.99297162920347,
+          "end_sec": 122.46981124646389,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0098"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_54_syll_3",
+          "text": "nan",
+          "start_sec": 122.46981124646389,
+          "end_sec": 125.01959494841016,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0099"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_55",
+      "text": "selama",
+      "start_sec": 125.60383337913589,
+      "end_sec": 129.04,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_55_syll_0",
+          "text": "se",
+          "start_sec": 125.604,
+          "end_sec": 127.20647765228277,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0100"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_55_syll_1",
+          "text": "la",
+          "start_sec": 127.20971025179526,
+          "end_sec": 127.91439137281772,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0101"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_55_syll_2",
+          "text": "ma",
+          "start_sec": 127.91439137281772,
+          "end_sec": 129.04,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0102"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_56",
+      "text": "engkau",
+      "start_sec": 129.09,
+      "end_sec": 129.93687366271155,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_56_syll_0",
+          "text": "eng",
+          "start_sec": 129.09,
+          "end_sec": 129.45864947705465,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_56_syll_1",
+          "text": "kau",
+          "start_sec": 129.45864947705465,
+          "end_sec": 129.93687366271155,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0103"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_57",
+      "text": "jauh",
+      "start_sec": 129.94802668591868,
+      "end_sec": 132.8946204811746,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_57_syll_0",
+          "text": "jauh",
+          "start_sec": 129.9528825580178,
+          "end_sec": 132.8946204811746,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok",
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0104",
+            "IKD_025_E0105"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_58",
+      "text": "di",
+      "start_sec": 133.67,
+      "end_sec": 134.04,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_58_syll_0",
+          "text": "di",
+          "start_sec": 133.67,
+          "end_sec": 134.04,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0106"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_59",
+      "text": "hatiku",
+      "start_sec": 134.09,
+      "end_sec": 135.76,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_59_syll_0",
+          "text": "ha",
+          "start_sec": 134.09,
+          "end_sec": 134.472,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_59_syll_1",
+          "text": "ti",
+          "start_sec": 134.472,
+          "end_sec": 134.694,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_59_syll_2",
+          "text": "ku",
+          "start_sec": 134.694,
+          "end_sec": 135.76,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_60",
+      "text": "kau",
+      "start_sec": 135.81,
+      "end_sec": 136.2139369816831,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_60_syll_0",
+          "text": "kau",
+          "start_sec": 135.81,
+          "end_sec": 136.21218768574155,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0107",
+            "IKD_025_E0108"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_61",
+      "text": "selalu",
+      "start_sec": 136.21665483554395,
+      "end_sec": 137.98236213056205,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_61_syll_0",
+          "text": "se",
+          "start_sec": 136.22123062839276,
+          "end_sec": 136.80976937160725,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_61_syll_1",
+          "text": "la",
+          "start_sec": 136.81206301831688,
+          "end_sec": 137.07506301831688,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0109"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_61_syll_2",
+          "text": "lu",
+          "start_sec": 137.07506301831688,
+          "end_sec": 137.982,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0110"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_62",
+      "text": "jadi",
+      "start_sec": 138.38102300114093,
+      "end_sec": 139.23311219926586,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_62_syll_0",
+          "text": "ja",
+          "start_sec": 138.38102300114093,
+          "end_sec": 138.81650723405608,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0111"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_62_syll_1",
+          "text": "di",
+          "start_sec": 138.8188008807657,
+          "end_sec": 139.233,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_63",
+      "text": "bayangan",
+      "start_sec": 139.24937082469373,
+      "end_sec": 143.54489341361173,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_63_syll_0",
+          "text": "ba",
+          "start_sec": 139.24937082469373,
+          "end_sec": 139.631,
+          "channel": 0,
+          "melisma_labels": [
+            "embat",
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0112",
+            "IKD_025_E0113"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_63_syll_1",
+          "text": "ya",
+          "start_sec": 139.631,
+          "end_sec": 140.19641219199391,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0114"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_63_syll_2",
+          "text": "ngan",
+          "start_sec": 140.19641219199391,
+          "end_sec": 143.54489341361173,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0115"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_64",
+      "text": "tenangkan",
+      "start_sec": 181.86832233263274,
+      "end_sec": 183.99269534984205,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_64_syll_0",
+          "text": "te",
+          "start_sec": 181.86832233263274,
+          "end_sec": 183.02229739680882,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0116",
+            "IKD_025_E0117"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_64_syll_1",
+          "text": "nang",
+          "start_sec": 183.02358223907027,
+          "end_sec": 183.50060059818068,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_64_syll_2",
+          "text": "kan",
+          "start_sec": 183.50060059818068,
+          "end_sec": 183.99269534984205,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_65",
+      "text": "hatimu",
+      "start_sec": 184.00643226724844,
+      "end_sec": 186.54664880832652,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_65_syll_0",
+          "text": "ha",
+          "start_sec": 184.00643226724844,
+          "end_sec": 184.44888300912777,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_65_syll_1",
+          "text": "ti",
+          "start_sec": 184.44888300912777,
+          "end_sec": 184.9152250747595,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok",
+            "embat"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0118",
+            "IKD_025_E0119",
+            "IKD_025_E0120"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_65_syll_2",
+          "text": "mu",
+          "start_sec": 184.9152250747595,
+          "end_sec": 186.54664880832652,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_66",
+      "text": "pergilah",
+      "start_sec": 187.034,
+      "end_sec": 188.264,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_66_syll_0",
+          "text": "per",
+          "start_sec": 187.034,
+          "end_sec": 187.46925605643912,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0121"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_66_syll_1",
+          "text": "gi",
+          "start_sec": 187.46925605643912,
+          "end_sec": 187.78176071523842,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_66_syll_2",
+          "text": "lah",
+          "start_sec": 187.78176071523842,
+          "end_sec": 188.264,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_67",
+      "text": "engkau",
+      "start_sec": 188.314,
+      "end_sec": 189.725,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_67_syll_0",
+          "text": "eng",
+          "start_sec": 188.314,
+          "end_sec": 188.62619111056947,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_67_syll_1",
+          "text": "kau",
+          "start_sec": 188.62619111056947,
+          "end_sec": 189.725,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "gregel"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0122",
+            "IKD_025_E0123"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_68",
+      "text": "kasihku",
+      "start_sec": 189.775,
+      "end_sec": 191.485,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_68_syll_0",
+          "text": "ka",
+          "start_sec": 189.775,
+          "end_sec": 189.98443971292966,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0124"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_68_syll_1",
+          "text": "sih",
+          "start_sec": 189.98443971292966,
+          "end_sec": 190.55638594817833,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_68_syll_2",
+          "text": "ku",
+          "start_sec": 190.55638594817833,
+          "end_sec": 191.485,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0125"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_69",
+      "text": "pergi",
+      "start_sec": 191.535,
+      "end_sec": 192.305,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_69_syll_0",
+          "text": "per",
+          "start_sec": 191.535,
+          "end_sec": 191.8870018635197,
+          "channel": 0,
+          "melisma_labels": [
+            "embat",
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0126",
+            "IKD_025_E0127"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_69_syll_1",
+          "text": "gi",
+          "start_sec": 191.8904081717547,
+          "end_sec": 192.305,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_70",
+      "text": "berjalan",
+      "start_sec": 192.355,
+      "end_sec": 197.10029659801842,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_70_syll_0",
+          "text": "ber",
+          "start_sec": 192.355,
+          "end_sec": 193.0176549105952,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "nggandhul"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0128",
+            "IKD_025_E0129"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_70_syll_1",
+          "text": "ja",
+          "start_sec": 193.0176549105952,
+          "end_sec": 193.77225232939966,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok",
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0130",
+            "IKD_025_E0131"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_70_syll_2",
+          "text": "lan",
+          "start_sec": 193.77906494586964,
+          "end_sec": 197.1,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0132"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_72",
+      "text": "daku",
+      "start_sec": 197.755,
+      "end_sec": 200.80628603539134,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_72_syll_0",
+          "text": "da",
+          "start_sec": 197.755,
+          "end_sec": 199.57183497870668,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok",
+            "embat"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0133",
+            "IKD_025_E0134",
+            "IKD_025_E0135"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_72_syll_1",
+          "text": "ku",
+          "start_sec": 199.57183497870668,
+          "end_sec": 200.806,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_73",
+      "text": "menunggu",
+      "start_sec": 200.82084043060547,
+      "end_sec": 204.62887197178046,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_73_syll_0",
+          "text": "me",
+          "start_sec": 200.82424673884046,
+          "end_sec": 201.456,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_73_syll_1",
+          "text": "nung",
+          "start_sec": 201.456,
+          "end_sec": 202.118,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_73_syll_2",
+          "text": "gu",
+          "start_sec": 202.118,
+          "end_sec": 204.62546566354547,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0136",
+            "IKD_025_E0137"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_74",
+      "text": "selamanya",
+      "start_sec": 204.63799627296055,
+      "end_sec": 207.5003148637044,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_74_syll_0",
+          "text": "se",
+          "start_sec": 204.64140258119554,
+          "end_sec": 205.83925906489443,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok",
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0138",
+            "IKD_025_E0139"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_74_syll_1",
+          "text": "la",
+          "start_sec": 205.84635999756256,
+          "end_sec": 206.25405203989192,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_74_syll_2",
+          "text": "ma",
+          "start_sec": 206.25405203989192,
+          "end_sec": 206.59001473561648,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_74_syll_3",
+          "text": "nya",
+          "start_sec": 206.59001473561648,
+          "end_sec": 207.5,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_75",
+      "text": "selagi",
+      "start_sec": 207.55031486370441,
+      "end_sec": 208.806,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_75_syll_0",
+          "text": "se",
+          "start_sec": 207.55031486370441,
+          "end_sec": 208.0790987446967,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_75_syll_1",
+          "text": "la",
+          "start_sec": 208.0811003373531,
+          "end_sec": 208.489328087218,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_75_syll_2",
+          "text": "gi",
+          "start_sec": 208.49132967987444,
+          "end_sec": 208.806,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_76",
+      "text": "hayat",
+      "start_sec": 208.856,
+      "end_sec": 210.186,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_76_syll_0",
+          "text": "ha",
+          "start_sec": 208.856,
+          "end_sec": 209.2111863407986,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_76_syll_1",
+          "text": "yat",
+          "start_sec": 209.2111863407986,
+          "end_sec": 210.1819968146872,
+          "channel": 0,
+          "melisma_labels": [
+            "cengkok",
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0140",
+            "IKD_025_E0141"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_77",
+      "text": "dikandung",
+      "start_sec": 210.236,
+      "end_sec": 211.366,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_77_syll_0",
+          "text": "di",
+          "start_sec": 210.236,
+          "end_sec": 210.61212263454266,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0142"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_77_syll_1",
+          "text": "kan",
+          "start_sec": 210.61212263454266,
+          "end_sec": 210.9862596029929,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0143"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_77_syll_2",
+          "text": "dung",
+          "start_sec": 210.9862596029929,
+          "end_sec": 211.366,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_78",
+      "text": "badan",
+      "start_sec": 211.416,
+      "end_sec": 216.24890901958221,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_78_syll_0",
+          "text": "ba",
+          "start_sec": 211.416,
+          "end_sec": 213.11445870962274,
+          "channel": 0,
+          "melisma_labels": [
+            "embat",
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0144",
+            "IKD_025_E0145"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_78_syll_1",
+          "text": "dan",
+          "start_sec": 213.11445870962274,
+          "end_sec": 216.24890901958221,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel",
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0146",
+            "IKD_025_E0147"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_79",
+      "text": "kekasih",
+      "start_sec": 217.78023935592984,
+      "end_sec": 219.867,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_79_syll_0",
+          "text": "ke",
+          "start_sec": 217.78023935592984,
+          "end_sec": 219.05331988509957,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "gregel"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0148",
+            "IKD_025_E0149"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_79_syll_1",
+          "text": "ka",
+          "start_sec": 219.0533198850996,
+          "end_sec": 219.33654601103024,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_79_syll_2",
+          "text": "sih",
+          "start_sec": 219.33654601103024,
+          "end_sec": 219.867,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_80",
+      "text": "hatiku",
+      "start_sec": 219.917,
+      "end_sec": 222.6329743643718,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_80_syll_0",
+          "text": "ha",
+          "start_sec": 219.917,
+          "end_sec": 220.298,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_80_syll_1",
+          "text": "ti",
+          "start_sec": 220.298,
+          "end_sec": 220.6919125726629,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0150"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_80_syll_2",
+          "text": "ku",
+          "start_sec": 220.6919125726629,
+          "end_sec": 222.62941221546103,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0151"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_81",
+      "text": "selamat",
+      "start_sec": 222.7898388316941,
+      "end_sec": 224.507,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_81_syll_0",
+          "text": "se",
+          "start_sec": 222.79340098060487,
+          "end_sec": 223.5387064649324,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0152",
+            "IKD_025_E0153"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_81_syll_1",
+          "text": "la",
+          "start_sec": 223.5387064649324,
+          "end_sec": 224.07510499402505,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_81_syll_2",
+          "text": "mat",
+          "start_sec": 224.07510499402508,
+          "end_sec": 224.507,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_82",
+      "text": "engkau",
+      "start_sec": 224.557,
+      "end_sec": 226.1075034240874,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_82_syll_0",
+          "text": "eng",
+          "start_sec": 224.557,
+          "end_sec": 224.79744346851734,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_82_syll_1",
+          "text": "kau",
+          "start_sec": 224.7976273866059,
+          "end_sec": 226.10375735708809,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "gregel"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0154",
+            "IKD_025_E0155"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_83",
+      "text": "dalam",
+      "start_sec": 226.57351441415653,
+      "end_sec": 227.947,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_83_syll_0",
+          "text": "da",
+          "start_sec": 226.574,
+          "end_sec": 226.961177493944,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0156"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_83_syll_1",
+          "text": "lam",
+          "start_sec": 226.961177493944,
+          "end_sec": 227.947,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok",
+            "gregel"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0157",
+            "IKD_025_E0158",
+            "IKD_025_E0159"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_84",
+      "text": "perjalanan",
+      "start_sec": 227.997,
+      "end_sec": 232.8132683150088,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_84_syll_0",
+          "text": "per",
+          "start_sec": 227.997,
+          "end_sec": 228.378,
+          "channel": 0,
+          "melisma_labels": [
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0160"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_84_syll_1",
+          "text": "ja",
+          "start_sec": 228.378,
+          "end_sec": 230.0424695538211,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok",
+            "gregel"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0161",
+            "IKD_025_E0162",
+            "IKD_025_E0163"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_84_syll_2",
+          "text": "la",
+          "start_sec": 230.0424695538211,
+          "end_sec": 230.54831445475077,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "nggandhul"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0164",
+            "IKD_025_E0165"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_84_syll_3",
+          "text": "nan",
+          "start_sec": 230.54831445475077,
+          "end_sec": 232.813,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0166"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_85",
+      "text": "selama",
+      "start_sec": 233.4028957946783,
+      "end_sec": 236.828,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_85_syll_0",
+          "text": "se",
+          "start_sec": 233.403,
+          "end_sec": 235.19457831486773,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "gregel"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0167",
+            "IKD_025_E0168"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_85_syll_1",
+          "text": "la",
+          "start_sec": 235.19457831486773,
+          "end_sec": 235.83560764790545,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0169"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_85_syll_2",
+          "text": "ma",
+          "start_sec": 235.83560764790548,
+          "end_sec": 236.828,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0170"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_86",
+      "text": "engkau",
+      "start_sec": 236.878,
+      "end_sec": 237.78951591669534,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_86_syll_0",
+          "text": "eng",
+          "start_sec": 236.878,
+          "end_sec": 237.3219856137823,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0171",
+            "IKD_025_E0172"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_86_syll_1",
+          "text": "kau",
+          "start_sec": 237.3219856137823,
+          "end_sec": 237.78951591669534,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_87",
+      "text": "jauh",
+      "start_sec": 237.8100843854561,
+      "end_sec": 240.69262986940635,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_87_syll_0",
+          "text": "jauh",
+          "start_sec": 237.8100843854561,
+          "end_sec": 240.69262986940635,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0173"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_88",
+      "text": "di",
+      "start_sec": 241.458,
+      "end_sec": 241.889,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_88_syll_0",
+          "text": "di",
+          "start_sec": 241.458,
+          "end_sec": 241.889,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0174",
+            "IKD_025_E0175"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_89",
+      "text": "hatiku",
+      "start_sec": 241.939,
+      "end_sec": 243.609,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_89_syll_0",
+          "text": "ha",
+          "start_sec": 241.939,
+          "end_sec": 242.301,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_89_syll_1",
+          "text": "ti",
+          "start_sec": 242.301,
+          "end_sec": 242.61919424551292,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_89_syll_2",
+          "text": "ku",
+          "start_sec": 242.61919424551292,
+          "end_sec": 243.609,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_90",
+      "text": "kau",
+      "start_sec": 243.6099474479346,
+      "end_sec": 244.04341257429982,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_90_syll_0",
+          "text": "kau",
+          "start_sec": 243.61,
+          "end_sec": 244.04341257429982,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "embat"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0176",
+            "IKD_025_E0177"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_91",
+      "text": "selalu",
+      "start_sec": 244.0534704627986,
+      "end_sec": 245.93582162512902,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_91_syll_0",
+          "text": "se",
+          "start_sec": 244.05578493804038,
+          "end_sec": 244.56277075204437,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_91_syll_1",
+          "text": "la",
+          "start_sec": 244.56277075204437,
+          "end_sec": 244.92390416609524,
+          "channel": 0,
+          "melisma_labels": [
+            "luk"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0178"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_91_syll_2",
+          "text": "lu",
+          "start_sec": 244.92624011539036,
+          "end_sec": 245.93582162512902,
+          "channel": 0,
+          "melisma_labels": [
+            "gregel"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0179"
+          ]
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_92",
+      "text": "jadi",
+      "start_sec": 246.17712657818413,
+      "end_sec": 246.949,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_92_syll_0",
+          "text": "ja",
+          "start_sec": 246.17712657818413,
+          "end_sec": 246.6501469023876,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        },
+        {
+          "source_region_id": "IKD_025_word_92_syll_1",
+          "text": "di",
+          "start_sec": 246.6501469023876,
+          "end_sec": 246.949,
+          "channel": 0,
+          "melisma_labels": [
+            "no_melisma"
+          ],
+          "luk_direction": null,
+          "event_ids": []
+        }
+      ]
+    },
+    {
+      "source_region_id": "IKD_025_word_93",
+      "text": "bayangan",
+      "start_sec": 246.999,
+      "end_sec": 253.3800670472844,
+      "channel": 0,
+      "syllables": [
+        {
+          "source_region_id": "IKD_025_word_93_syll_0",
+          "text": "ba",
+          "start_sec": 246.999,
+          "end_sec": 247.38,
+          "channel": 0,
+          "melisma_labels": [
+            "embat",
+            "nggandhul"
+          ],
+          "luk_direction": null,
+          "event_ids": [
+            "IKD_025_E0180",
+            "IKD_025_E0181"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_93_syll_1",
+          "text": "ya",
+          "start_sec": 247.38,
+          "end_sec": 248.0141600337305,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "cengkok"
+          ],
+          "luk_direction": "atas",
+          "event_ids": [
+            "IKD_025_E0182",
+            "IKD_025_E0183"
+          ]
+        },
+        {
+          "source_region_id": "IKD_025_word_93_syll_2",
+          "text": "ngan",
+          "start_sec": 248.01829380477525,
+          "end_sec": 253.38,
+          "channel": 0,
+          "melisma_labels": [
+            "luk",
+            "gregel"
+          ],
+          "luk_direction": "bawah",
+          "event_ids": [
+            "IKD_025_E0184",
+            "IKD_025_E0185"
+          ]
+        }
+      ]
+    }
+  ],
+  "unparented_syllables": [],
+  "melisma_events": [
+    {
+      "event_id": "IKD_025_E0001",
+      "track_id": "IKD_025",
+      "word": "oh",
+      "word_source_region_id": "IKD_025_word_0",
+      "syllable": "oh",
+      "syllable_source_region_id": "IKD_025_word_0_syll_0",
+      "start_sec": 0.615,
+      "end_sec": 2.451750598450742,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0002",
+      "track_id": "IKD_025",
+      "word": "mata",
+      "word_source_region_id": "IKD_025_word_3",
+      "syllable": "ma",
+      "syllable_source_region_id": "IKD_025_word_3_syll_0",
+      "start_sec": 3.6,
+      "end_sec": 4.373198748828949,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0003",
+      "track_id": "IKD_025",
+      "word": "terbayang",
+      "word_source_region_id": "IKD_025_word_8",
+      "syllable": "ter",
+      "syllable_source_region_id": "IKD_025_word_8_syll_0",
+      "start_sec": 12.63708657680665,
+      "end_sec": 13.461,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0004",
+      "track_id": "IKD_025",
+      "word": "terbayang",
+      "word_source_region_id": "IKD_025_word_8",
+      "syllable": "ba",
+      "syllable_source_region_id": "IKD_025_word_8_syll_1",
+      "start_sec": 13.461,
+      "end_sec": 14.085959385268389,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0005",
+      "track_id": "IKD_025",
+      "word": "terbayang",
+      "word_source_region_id": "IKD_025_word_8",
+      "syllable": "ba",
+      "syllable_source_region_id": "IKD_025_word_8_syll_1",
+      "start_sec": 13.461,
+      "end_sec": 14.085959385268389,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0006",
+      "track_id": "IKD_025",
+      "word": "sungguh",
+      "word_source_region_id": "IKD_025_word_9",
+      "syllable": "sung",
+      "syllable_source_region_id": "IKD_025_word_9_syll_0",
+      "start_sec": 20.04626865963838,
+      "end_sec": 21.372987568208334,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0007",
+      "track_id": "IKD_025",
+      "word": "sungguh",
+      "word_source_region_id": "IKD_025_word_9",
+      "syllable": "guh",
+      "syllable_source_region_id": "IKD_025_word_9_syll_1",
+      "start_sec": 21.372987568208334,
+      "end_sec": 21.732,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0008",
+      "track_id": "IKD_025",
+      "word": "kita",
+      "word_source_region_id": "IKD_025_word_11",
+      "syllable": "ki",
+      "syllable_source_region_id": "IKD_025_word_11_syll_0",
+      "start_sec": 22.642,
+      "end_sec": 25.02376441857288,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0009",
+      "track_id": "IKD_025",
+      "word": "kita",
+      "word_source_region_id": "IKD_025_word_11",
+      "syllable": "ki",
+      "syllable_source_region_id": "IKD_025_word_11_syll_0",
+      "start_sec": 22.642,
+      "end_sec": 25.02376441857288,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0010",
+      "track_id": "IKD_025",
+      "word": "kita",
+      "word_source_region_id": "IKD_025_word_11",
+      "syllable": "ki",
+      "syllable_source_region_id": "IKD_025_word_11_syll_0",
+      "start_sec": 22.642,
+      "end_sec": 25.02376441857288,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0011",
+      "track_id": "IKD_025",
+      "word": "kita",
+      "word_source_region_id": "IKD_025_word_11",
+      "syllable": "ki",
+      "syllable_source_region_id": "IKD_025_word_11_syll_0",
+      "start_sec": 22.642,
+      "end_sec": 25.02376441857288,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0012",
+      "track_id": "IKD_025",
+      "word": "kita",
+      "word_source_region_id": "IKD_025_word_11",
+      "syllable": "ta",
+      "syllable_source_region_id": "IKD_025_word_11_syll_1",
+      "start_sec": 25.026209712371298,
+      "end_sec": 25.992,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0013",
+      "track_id": "IKD_025",
+      "word": "titik",
+      "word_source_region_id": "IKD_025_word_15",
+      "syllable": "ti",
+      "syllable_source_region_id": "IKD_025_word_15_syll_0",
+      "start_sec": 30.142,
+      "end_sec": 30.485323792198866,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0014",
+      "track_id": "IKD_025",
+      "word": "titik",
+      "word_source_region_id": "IKD_025_word_15",
+      "syllable": "tik",
+      "syllable_source_region_id": "IKD_025_word_15_syll_1",
+      "start_sec": 30.485323792198866,
+      "end_sec": 31.052,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0015",
+      "track_id": "IKD_025",
+      "word": "berlina",
+      "word_source_region_id": "IKD_025_word_16",
+      "syllable": "li",
+      "syllable_source_region_id": "IKD_025_word_16_syll_1",
+      "start_sec": 31.383,
+      "end_sec": 32.373867147237675,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0016",
+      "track_id": "IKD_025",
+      "word": "berlina",
+      "word_source_region_id": "IKD_025_word_16",
+      "syllable": "li",
+      "syllable_source_region_id": "IKD_025_word_16_syll_1",
+      "start_sec": 31.383,
+      "end_sec": 32.373867147237675,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0017",
+      "track_id": "IKD_025",
+      "word": "berlina",
+      "word_source_region_id": "IKD_025_word_16",
+      "syllable": "li",
+      "syllable_source_region_id": "IKD_025_word_16_syll_1",
+      "start_sec": 31.383,
+      "end_sec": 32.373867147237675,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0018",
+      "track_id": "IKD_025",
+      "word": "berlina",
+      "word_source_region_id": "IKD_025_word_16",
+      "syllable": "na",
+      "syllable_source_region_id": "IKD_025_word_16_syll_2",
+      "start_sec": 32.373867147237675,
+      "end_sec": 36.11456265135754,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0019",
+      "track_id": "IKD_025",
+      "word": "oh",
+      "word_source_region_id": "IKD_025_word_17",
+      "syllable": "oh",
+      "syllable_source_region_id": "IKD_025_word_17_syll_0",
+      "start_sec": 38.087033372698656,
+      "end_sec": 39.568996732096245,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0020",
+      "track_id": "IKD_025",
+      "word": "kabar",
+      "word_source_region_id": "IKD_025_word_18",
+      "syllable": "ka",
+      "syllable_source_region_id": "IKD_025_word_18_syll_0",
+      "start_sec": 39.57,
+      "end_sec": 39.94682801565404,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0021",
+      "track_id": "IKD_025",
+      "word": "kabar",
+      "word_source_region_id": "IKD_025_word_18",
+      "syllable": "ka",
+      "syllable_source_region_id": "IKD_025_word_18_syll_0",
+      "start_sec": 39.57,
+      "end_sec": 39.94682801565404,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0022",
+      "track_id": "IKD_025",
+      "word": "berita",
+      "word_source_region_id": "IKD_025_word_19",
+      "syllable": "ri",
+      "syllable_source_region_id": "IKD_025_word_19_syll_1",
+      "start_sec": 40.72593960469794,
+      "end_sec": 41.1999003829632,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0023",
+      "track_id": "IKD_025",
+      "word": "kirimkan",
+      "word_source_region_id": "IKD_025_word_20",
+      "syllable": "ki",
+      "syllable_source_region_id": "IKD_025_word_20_syll_0",
+      "start_sec": 43.883,
+      "end_sec": 44.13190162181573,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0024",
+      "track_id": "IKD_025",
+      "word": "saja",
+      "word_source_region_id": "IKD_025_word_21",
+      "syllable": "sa",
+      "syllable_source_region_id": "IKD_025_word_21_syll_0",
+      "start_sec": 44.92435429100236,
+      "end_sec": 45.448053553344586,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0025",
+      "track_id": "IKD_025",
+      "word": "saja",
+      "word_source_region_id": "IKD_025_word_21",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_21_syll_1",
+      "start_sec": 45.448053553344586,
+      "end_sec": 46.594,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0026",
+      "track_id": "IKD_025",
+      "word": "saja",
+      "word_source_region_id": "IKD_025_word_21",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_21_syll_1",
+      "start_sec": 45.448053553344586,
+      "end_sec": 46.594,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0027",
+      "track_id": "IKD_025",
+      "word": "di",
+      "word_source_region_id": "IKD_025_word_22",
+      "syllable": "di",
+      "syllable_source_region_id": "IKD_025_word_22_syll_0",
+      "start_sec": 46.644,
+      "end_sec": 46.954,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0028",
+      "track_id": "IKD_025",
+      "word": "angin",
+      "word_source_region_id": "IKD_025_word_23",
+      "syllable": "a",
+      "syllable_source_region_id": "IKD_025_word_23_syll_0",
+      "start_sec": 47.004,
+      "end_sec": 47.207,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0029",
+      "track_id": "IKD_025",
+      "word": "angin",
+      "word_source_region_id": "IKD_025_word_23",
+      "syllable": "a",
+      "syllable_source_region_id": "IKD_025_word_23_syll_0",
+      "start_sec": 47.004,
+      "end_sec": 47.207,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0030",
+      "track_id": "IKD_025",
+      "word": "angin",
+      "word_source_region_id": "IKD_025_word_23",
+      "syllable": "ngin",
+      "syllable_source_region_id": "IKD_025_word_23_syll_1",
+      "start_sec": 47.207,
+      "end_sec": 47.794,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0031",
+      "track_id": "IKD_025",
+      "word": "melayang",
+      "word_source_region_id": "IKD_025_word_24",
+      "syllable": "la",
+      "syllable_source_region_id": "IKD_025_word_24_syll_1",
+      "start_sec": 48.769090300702544,
+      "end_sec": 49.49348190308322,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0032",
+      "track_id": "IKD_025",
+      "word": "melayang",
+      "word_source_region_id": "IKD_025_word_24",
+      "syllable": "yang",
+      "syllable_source_region_id": "IKD_025_word_24_syll_2",
+      "start_sec": 49.49348190308322,
+      "end_sec": 53.16481550578114,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0033",
+      "track_id": "IKD_025",
+      "word": "bila",
+      "word_source_region_id": "IKD_025_word_25",
+      "syllable": "bi",
+      "syllable_source_region_id": "IKD_025_word_25_syll_0",
+      "start_sec": 54.04343928860775,
+      "end_sec": 55.41345676608123,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0034",
+      "track_id": "IKD_025",
+      "word": "bila",
+      "word_source_region_id": "IKD_025_word_25",
+      "syllable": "la",
+      "syllable_source_region_id": "IKD_025_word_25_syll_1",
+      "start_sec": 55.41345676608123,
+      "end_sec": 56.314,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0035",
+      "track_id": "IKD_025",
+      "word": "berjumpa",
+      "word_source_region_id": "IKD_025_word_27",
+      "syllable": "ber",
+      "syllable_source_region_id": "IKD_025_word_27_syll_0",
+      "start_sec": 57.124,
+      "end_sec": 58.34346254974784,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0036",
+      "track_id": "IKD_025",
+      "word": "berjumpa",
+      "word_source_region_id": "IKD_025_word_27",
+      "syllable": "ber",
+      "syllable_source_region_id": "IKD_025_word_27_syll_0",
+      "start_sec": 57.124,
+      "end_sec": 58.34346254974784,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0037",
+      "track_id": "IKD_025",
+      "word": "berjumpa",
+      "word_source_region_id": "IKD_025_word_27",
+      "syllable": "ber",
+      "syllable_source_region_id": "IKD_025_word_27_syll_0",
+      "start_sec": 57.124,
+      "end_sec": 58.34346254974784,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0038",
+      "track_id": "IKD_025",
+      "word": "berjumpa",
+      "word_source_region_id": "IKD_025_word_27",
+      "syllable": "jum",
+      "syllable_source_region_id": "IKD_025_word_27_syll_1",
+      "start_sec": 58.34346254974784,
+      "end_sec": 58.973751589497446,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0039",
+      "track_id": "IKD_025",
+      "word": "berjumpa",
+      "word_source_region_id": "IKD_025_word_27",
+      "syllable": "jum",
+      "syllable_source_region_id": "IKD_025_word_27_syll_1",
+      "start_sec": 58.34346254974784,
+      "end_sec": 58.973751589497446,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0040",
+      "track_id": "IKD_025",
+      "word": "berjumpa",
+      "word_source_region_id": "IKD_025_word_27",
+      "syllable": "jum",
+      "syllable_source_region_id": "IKD_025_word_27_syll_1",
+      "start_sec": 58.34346254974784,
+      "end_sec": 58.973751589497446,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0041",
+      "track_id": "IKD_025",
+      "word": "hatimu",
+      "word_source_region_id": "IKD_025_word_30",
+      "syllable": "ha",
+      "syllable_source_region_id": "IKD_025_word_30_syll_0",
+      "start_sec": 64.265,
+      "end_sec": 65.04317633004115,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0042",
+      "track_id": "IKD_025",
+      "word": "hatimu",
+      "word_source_region_id": "IKD_025_word_30",
+      "syllable": "ti",
+      "syllable_source_region_id": "IKD_025_word_30_syll_1",
+      "start_sec": 65.04317633004115,
+      "end_sec": 65.44523995037383,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0043",
+      "track_id": "IKD_025",
+      "word": "hatimu",
+      "word_source_region_id": "IKD_025_word_30",
+      "syllable": "mu",
+      "syllable_source_region_id": "IKD_025_word_30_syll_2",
+      "start_sec": 65.44523995037383,
+      "end_sec": 66.35872181928256,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0044",
+      "track_id": "IKD_025",
+      "word": "di",
+      "word_source_region_id": "IKD_025_word_31",
+      "syllable": "di",
+      "syllable_source_region_id": "IKD_025_word_31_syll_0",
+      "start_sec": 66.845,
+      "end_sec": 67.175,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0045",
+      "track_id": "IKD_025",
+      "word": "petang",
+      "word_source_region_id": "IKD_025_word_33",
+      "syllable": "pe",
+      "syllable_source_region_id": "IKD_025_word_33_syll_0",
+      "start_sec": 68.025,
+      "end_sec": 68.766,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0046",
+      "track_id": "IKD_025",
+      "word": "petang",
+      "word_source_region_id": "IKD_025_word_33",
+      "syllable": "pe",
+      "syllable_source_region_id": "IKD_025_word_33_syll_0",
+      "start_sec": 68.025,
+      "end_sec": 68.766,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0047",
+      "track_id": "IKD_025",
+      "word": "petang",
+      "word_source_region_id": "IKD_025_word_33",
+      "syllable": "tang",
+      "syllable_source_region_id": "IKD_025_word_33_syll_1",
+      "start_sec": 68.766,
+      "end_sec": 71.97,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0048",
+      "track_id": "IKD_025",
+      "word": "petang",
+      "word_source_region_id": "IKD_025_word_33",
+      "syllable": "tang",
+      "syllable_source_region_id": "IKD_025_word_33_syll_1",
+      "start_sec": 68.766,
+      "end_sec": 71.97,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0049",
+      "track_id": "IKD_025",
+      "word": "tenangkan",
+      "word_source_region_id": "IKD_025_word_34",
+      "syllable": "te",
+      "syllable_source_region_id": "IKD_025_word_34_syll_0",
+      "start_sec": 74.08517385873128,
+      "end_sec": 75.63188655324694,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0050",
+      "track_id": "IKD_025",
+      "word": "hatimu",
+      "word_source_region_id": "IKD_025_word_35",
+      "syllable": "ti",
+      "syllable_source_region_id": "IKD_025_word_35_syll_1",
+      "start_sec": 77.01957195310858,
+      "end_sec": 77.66746622634606,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0051",
+      "track_id": "IKD_025",
+      "word": "hatimu",
+      "word_source_region_id": "IKD_025_word_35",
+      "syllable": "ti",
+      "syllable_source_region_id": "IKD_025_word_35_syll_1",
+      "start_sec": 77.01957195310858,
+      "end_sec": 77.66746622634606,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0052",
+      "track_id": "IKD_025",
+      "word": "pergilah",
+      "word_source_region_id": "IKD_025_word_36",
+      "syllable": "per",
+      "syllable_source_region_id": "IKD_025_word_36_syll_0",
+      "start_sec": 79.206,
+      "end_sec": 79.569,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0053",
+      "track_id": "IKD_025",
+      "word": "pergilah",
+      "word_source_region_id": "IKD_025_word_36",
+      "syllable": "per",
+      "syllable_source_region_id": "IKD_025_word_36_syll_0",
+      "start_sec": 79.206,
+      "end_sec": 79.569,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0054",
+      "track_id": "IKD_025",
+      "word": "engkau",
+      "word_source_region_id": "IKD_025_word_37",
+      "syllable": "kau",
+      "syllable_source_region_id": "IKD_025_word_37_syll_1",
+      "start_sec": 80.82578511991406,
+      "end_sec": 81.956,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0055",
+      "track_id": "IKD_025",
+      "word": "kasihku",
+      "word_source_region_id": "IKD_025_word_38",
+      "syllable": "ka",
+      "syllable_source_region_id": "IKD_025_word_38_syll_0",
+      "start_sec": 82.006,
+      "end_sec": 82.2099588713525,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0056",
+      "track_id": "IKD_025",
+      "word": "kasihku",
+      "word_source_region_id": "IKD_025_word_38",
+      "syllable": "sih",
+      "syllable_source_region_id": "IKD_025_word_38_syll_1",
+      "start_sec": 82.2099588713525,
+      "end_sec": 82.84091888048188,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0057",
+      "track_id": "IKD_025",
+      "word": "pergi",
+      "word_source_region_id": "IKD_025_word_39",
+      "syllable": "per",
+      "syllable_source_region_id": "IKD_025_word_39_syll_0",
+      "start_sec": 83.726,
+      "end_sec": 84.05374192134417,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0058",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_40",
+      "syllable": "ber",
+      "syllable_source_region_id": "IKD_025_word_40_syll_0",
+      "start_sec": 84.486,
+      "end_sec": 85.668,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0059",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_40",
+      "syllable": "ber",
+      "syllable_source_region_id": "IKD_025_word_40_syll_0",
+      "start_sec": 84.486,
+      "end_sec": 85.668,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0060",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_40",
+      "syllable": "ber",
+      "syllable_source_region_id": "IKD_025_word_40_syll_0",
+      "start_sec": 84.486,
+      "end_sec": 85.668,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0061",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_40",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_40_syll_1",
+      "start_sec": 85.668,
+      "end_sec": 86.35866288180615,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0062",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_40",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_40_syll_1",
+      "start_sec": 85.668,
+      "end_sec": 86.35866288180615,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0063",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_40",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_40_syll_1",
+      "start_sec": 85.668,
+      "end_sec": 86.35866288180615,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0064",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_40",
+      "syllable": "lan",
+      "syllable_source_region_id": "IKD_025_word_40_syll_2",
+      "start_sec": 86.35866288180615,
+      "end_sec": 89.012,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0065",
+      "track_id": "IKD_025",
+      "word": "dan",
+      "word_source_region_id": "IKD_025_word_41",
+      "syllable": "dan",
+      "syllable_source_region_id": "IKD_025_word_41_syll_0",
+      "start_sec": 89.641,
+      "end_sec": 90.98188094847434,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0066",
+      "track_id": "IKD_025",
+      "word": "dan",
+      "word_source_region_id": "IKD_025_word_41",
+      "syllable": "dan",
+      "syllable_source_region_id": "IKD_025_word_41_syll_0",
+      "start_sec": 89.641,
+      "end_sec": 90.98188094847434,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0067",
+      "track_id": "IKD_025",
+      "word": "aku",
+      "word_source_region_id": "IKD_025_word_42",
+      "syllable": "a",
+      "syllable_source_region_id": "IKD_025_word_42_syll_0",
+      "start_sec": 91.00030794238891,
+      "end_sec": 91.07711790391178,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0068",
+      "track_id": "IKD_025",
+      "word": "menunggu",
+      "word_source_region_id": "IKD_025_word_43",
+      "syllable": "me",
+      "syllable_source_region_id": "IKD_025_word_43_syll_0",
+      "start_sec": 91.38478530729624,
+      "end_sec": 91.77963547823181,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0069",
+      "track_id": "IKD_025",
+      "word": "menunggu",
+      "word_source_region_id": "IKD_025_word_43",
+      "syllable": "gu",
+      "syllable_source_region_id": "IKD_025_word_43_syll_2",
+      "start_sec": 92.215,
+      "end_sec": 94.739,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0070",
+      "track_id": "IKD_025",
+      "word": "menunggu",
+      "word_source_region_id": "IKD_025_word_43",
+      "syllable": "gu",
+      "syllable_source_region_id": "IKD_025_word_43_syll_2",
+      "start_sec": 92.215,
+      "end_sec": 94.739,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0071",
+      "track_id": "IKD_025",
+      "word": "selamanya",
+      "word_source_region_id": "IKD_025_word_44",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_44_syll_0",
+      "start_sec": 94.841,
+      "end_sec": 95.71180388967119,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0072",
+      "track_id": "IKD_025",
+      "word": "selamanya",
+      "word_source_region_id": "IKD_025_word_44",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_44_syll_0",
+      "start_sec": 94.841,
+      "end_sec": 95.71180388967119,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0073",
+      "track_id": "IKD_025",
+      "word": "selamanya",
+      "word_source_region_id": "IKD_025_word_44",
+      "syllable": "la",
+      "syllable_source_region_id": "IKD_025_word_44_syll_1",
+      "start_sec": 95.71180388967119,
+      "end_sec": 96.20268567171443,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0074",
+      "track_id": "IKD_025",
+      "word": "selagi",
+      "word_source_region_id": "IKD_025_word_45",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_45_syll_0",
+      "start_sec": 97.52500881759931,
+      "end_sec": 97.99996427241076,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0075",
+      "track_id": "IKD_025",
+      "word": "selagi",
+      "word_source_region_id": "IKD_025_word_45",
+      "syllable": "la",
+      "syllable_source_region_id": "IKD_025_word_45_syll_1",
+      "start_sec": 97.99996427241076,
+      "end_sec": 98.4593446750554,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0076",
+      "track_id": "IKD_025",
+      "word": "hayat",
+      "word_source_region_id": "IKD_025_word_46",
+      "syllable": "yat",
+      "syllable_source_region_id": "IKD_025_word_46_syll_1",
+      "start_sec": 99.1250449235801,
+      "end_sec": 100.198,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0077",
+      "track_id": "IKD_025",
+      "word": "dikandung",
+      "word_source_region_id": "IKD_025_word_47",
+      "syllable": "di",
+      "syllable_source_region_id": "IKD_025_word_47_syll_0",
+      "start_sec": 100.248,
+      "end_sec": 100.62383777806225,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0078",
+      "track_id": "IKD_025",
+      "word": "dikandung",
+      "word_source_region_id": "IKD_025_word_47",
+      "syllable": "di",
+      "syllable_source_region_id": "IKD_025_word_47_syll_0",
+      "start_sec": 100.248,
+      "end_sec": 100.62383777806225,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0079",
+      "track_id": "IKD_025",
+      "word": "badan",
+      "word_source_region_id": "IKD_025_word_48",
+      "syllable": "ba",
+      "syllable_source_region_id": "IKD_025_word_48_syll_0",
+      "start_sec": 101.608,
+      "end_sec": 103.14593682121331,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0080",
+      "track_id": "IKD_025",
+      "word": "badan",
+      "word_source_region_id": "IKD_025_word_48",
+      "syllable": "ba",
+      "syllable_source_region_id": "IKD_025_word_48_syll_0",
+      "start_sec": 101.608,
+      "end_sec": 103.14593682121331,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0081",
+      "track_id": "IKD_025",
+      "word": "badan",
+      "word_source_region_id": "IKD_025_word_48",
+      "syllable": "dan",
+      "syllable_source_region_id": "IKD_025_word_48_syll_1",
+      "start_sec": 103.14593682121331,
+      "end_sec": 106.949,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0082",
+      "track_id": "IKD_025",
+      "word": "kekasih",
+      "word_source_region_id": "IKD_025_word_49",
+      "syllable": "ke",
+      "syllable_source_region_id": "IKD_025_word_49_syll_0",
+      "start_sec": 110.006,
+      "end_sec": 111.5732310550941,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0083",
+      "track_id": "IKD_025",
+      "word": "kekasih",
+      "word_source_region_id": "IKD_025_word_49",
+      "syllable": "ke",
+      "syllable_source_region_id": "IKD_025_word_49_syll_0",
+      "start_sec": 110.006,
+      "end_sec": 111.5732310550941,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0084",
+      "track_id": "IKD_025",
+      "word": "kekasih",
+      "word_source_region_id": "IKD_025_word_49",
+      "syllable": "ka",
+      "syllable_source_region_id": "IKD_025_word_49_syll_1",
+      "start_sec": 111.5732310550941,
+      "end_sec": 111.82860777934238,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0085",
+      "track_id": "IKD_025",
+      "word": "hatiku",
+      "word_source_region_id": "IKD_025_word_50",
+      "syllable": "ti",
+      "syllable_source_region_id": "IKD_025_word_50_syll_1",
+      "start_sec": 112.8153382378618,
+      "end_sec": 113.23305044117463,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0086",
+      "track_id": "IKD_025",
+      "word": "hatiku",
+      "word_source_region_id": "IKD_025_word_50",
+      "syllable": "ti",
+      "syllable_source_region_id": "IKD_025_word_50_syll_1",
+      "start_sec": 112.8153382378618,
+      "end_sec": 113.23305044117463,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0087",
+      "track_id": "IKD_025",
+      "word": "hatiku",
+      "word_source_region_id": "IKD_025_word_50",
+      "syllable": "ku",
+      "syllable_source_region_id": "IKD_025_word_50_syll_2",
+      "start_sec": 113.23305044117463,
+      "end_sec": 114.82285638027682,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0088",
+      "track_id": "IKD_025",
+      "word": "selamat",
+      "word_source_region_id": "IKD_025_word_51",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_51_syll_0",
+      "start_sec": 115.03031612828018,
+      "end_sec": 115.72462971294532,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0089",
+      "track_id": "IKD_025",
+      "word": "selamat",
+      "word_source_region_id": "IKD_025_word_51",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_51_syll_0",
+      "start_sec": 115.03031612828018,
+      "end_sec": 115.72462971294532,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0090",
+      "track_id": "IKD_025",
+      "word": "engkau",
+      "word_source_region_id": "IKD_025_word_52",
+      "syllable": "eng",
+      "syllable_source_region_id": "IKD_025_word_52_syll_0",
+      "start_sec": 116.609,
+      "end_sec": 116.84979101528398,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0091",
+      "track_id": "IKD_025",
+      "word": "engkau",
+      "word_source_region_id": "IKD_025_word_52",
+      "syllable": "eng",
+      "syllable_source_region_id": "IKD_025_word_52_syll_0",
+      "start_sec": 116.609,
+      "end_sec": 116.84979101528398,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0092",
+      "track_id": "IKD_025",
+      "word": "engkau",
+      "word_source_region_id": "IKD_025_word_52",
+      "syllable": "kau",
+      "syllable_source_region_id": "IKD_025_word_52_syll_1",
+      "start_sec": 116.85233272026727,
+      "end_sec": 118.272,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0093",
+      "track_id": "IKD_025",
+      "word": "dalam",
+      "word_source_region_id": "IKD_025_word_53",
+      "syllable": "da",
+      "syllable_source_region_id": "IKD_025_word_53_syll_0",
+      "start_sec": 118.68215231385486,
+      "end_sec": 119.06733639866363,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0094",
+      "track_id": "IKD_025",
+      "word": "dalam",
+      "word_source_region_id": "IKD_025_word_53",
+      "syllable": "da",
+      "syllable_source_region_id": "IKD_025_word_53_syll_0",
+      "start_sec": 118.68215231385486,
+      "end_sec": 119.06733639866363,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0095",
+      "track_id": "IKD_025",
+      "word": "dalam",
+      "word_source_region_id": "IKD_025_word_53",
+      "syllable": "lam",
+      "syllable_source_region_id": "IKD_025_word_53_syll_1",
+      "start_sec": 119.06987810364693,
+      "end_sec": 120.079,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0096",
+      "track_id": "IKD_025",
+      "word": "perjalanan",
+      "word_source_region_id": "IKD_025_word_54",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_54_syll_1",
+      "start_sec": 120.4898725860524,
+      "end_sec": 121.99297162920347,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0097",
+      "track_id": "IKD_025",
+      "word": "perjalanan",
+      "word_source_region_id": "IKD_025_word_54",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_54_syll_1",
+      "start_sec": 120.4898725860524,
+      "end_sec": 121.99297162920347,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0098",
+      "track_id": "IKD_025",
+      "word": "perjalanan",
+      "word_source_region_id": "IKD_025_word_54",
+      "syllable": "la",
+      "syllable_source_region_id": "IKD_025_word_54_syll_2",
+      "start_sec": 121.99297162920347,
+      "end_sec": 122.46981124646389,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0099",
+      "track_id": "IKD_025",
+      "word": "perjalanan",
+      "word_source_region_id": "IKD_025_word_54",
+      "syllable": "nan",
+      "syllable_source_region_id": "IKD_025_word_54_syll_3",
+      "start_sec": 122.46981124646389,
+      "end_sec": 125.01959494841016,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0100",
+      "track_id": "IKD_025",
+      "word": "selama",
+      "word_source_region_id": "IKD_025_word_55",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_55_syll_0",
+      "start_sec": 125.604,
+      "end_sec": 127.20647765228277,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0101",
+      "track_id": "IKD_025",
+      "word": "selama",
+      "word_source_region_id": "IKD_025_word_55",
+      "syllable": "la",
+      "syllable_source_region_id": "IKD_025_word_55_syll_1",
+      "start_sec": 127.20971025179526,
+      "end_sec": 127.91439137281772,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0102",
+      "track_id": "IKD_025",
+      "word": "selama",
+      "word_source_region_id": "IKD_025_word_55",
+      "syllable": "ma",
+      "syllable_source_region_id": "IKD_025_word_55_syll_2",
+      "start_sec": 127.91439137281772,
+      "end_sec": 129.04,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0103",
+      "track_id": "IKD_025",
+      "word": "engkau",
+      "word_source_region_id": "IKD_025_word_56",
+      "syllable": "kau",
+      "syllable_source_region_id": "IKD_025_word_56_syll_1",
+      "start_sec": 129.45864947705465,
+      "end_sec": 129.93687366271155,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0104",
+      "track_id": "IKD_025",
+      "word": "jauh",
+      "word_source_region_id": "IKD_025_word_57",
+      "syllable": "jauh",
+      "syllable_source_region_id": "IKD_025_word_57_syll_0",
+      "start_sec": 129.9528825580178,
+      "end_sec": 132.8946204811746,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0105",
+      "track_id": "IKD_025",
+      "word": "jauh",
+      "word_source_region_id": "IKD_025_word_57",
+      "syllable": "jauh",
+      "syllable_source_region_id": "IKD_025_word_57_syll_0",
+      "start_sec": 129.9528825580178,
+      "end_sec": 132.8946204811746,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0106",
+      "track_id": "IKD_025",
+      "word": "di",
+      "word_source_region_id": "IKD_025_word_58",
+      "syllable": "di",
+      "syllable_source_region_id": "IKD_025_word_58_syll_0",
+      "start_sec": 133.67,
+      "end_sec": 134.04,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0107",
+      "track_id": "IKD_025",
+      "word": "kau",
+      "word_source_region_id": "IKD_025_word_60",
+      "syllable": "kau",
+      "syllable_source_region_id": "IKD_025_word_60_syll_0",
+      "start_sec": 135.81,
+      "end_sec": 136.21218768574155,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0108",
+      "track_id": "IKD_025",
+      "word": "kau",
+      "word_source_region_id": "IKD_025_word_60",
+      "syllable": "kau",
+      "syllable_source_region_id": "IKD_025_word_60_syll_0",
+      "start_sec": 135.81,
+      "end_sec": 136.21218768574155,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0109",
+      "track_id": "IKD_025",
+      "word": "selalu",
+      "word_source_region_id": "IKD_025_word_61",
+      "syllable": "la",
+      "syllable_source_region_id": "IKD_025_word_61_syll_1",
+      "start_sec": 136.81206301831688,
+      "end_sec": 137.07506301831688,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0110",
+      "track_id": "IKD_025",
+      "word": "selalu",
+      "word_source_region_id": "IKD_025_word_61",
+      "syllable": "lu",
+      "syllable_source_region_id": "IKD_025_word_61_syll_2",
+      "start_sec": 137.07506301831688,
+      "end_sec": 137.982,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0111",
+      "track_id": "IKD_025",
+      "word": "jadi",
+      "word_source_region_id": "IKD_025_word_62",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_62_syll_0",
+      "start_sec": 138.38102300114093,
+      "end_sec": 138.81650723405608,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0112",
+      "track_id": "IKD_025",
+      "word": "bayangan",
+      "word_source_region_id": "IKD_025_word_63",
+      "syllable": "ba",
+      "syllable_source_region_id": "IKD_025_word_63_syll_0",
+      "start_sec": 139.24937082469373,
+      "end_sec": 139.631,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0113",
+      "track_id": "IKD_025",
+      "word": "bayangan",
+      "word_source_region_id": "IKD_025_word_63",
+      "syllable": "ba",
+      "syllable_source_region_id": "IKD_025_word_63_syll_0",
+      "start_sec": 139.24937082469373,
+      "end_sec": 139.631,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0114",
+      "track_id": "IKD_025",
+      "word": "bayangan",
+      "word_source_region_id": "IKD_025_word_63",
+      "syllable": "ya",
+      "syllable_source_region_id": "IKD_025_word_63_syll_1",
+      "start_sec": 139.631,
+      "end_sec": 140.19641219199391,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0115",
+      "track_id": "IKD_025",
+      "word": "bayangan",
+      "word_source_region_id": "IKD_025_word_63",
+      "syllable": "ngan",
+      "syllable_source_region_id": "IKD_025_word_63_syll_2",
+      "start_sec": 140.19641219199391,
+      "end_sec": 143.54489341361173,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0116",
+      "track_id": "IKD_025",
+      "word": "tenangkan",
+      "word_source_region_id": "IKD_025_word_64",
+      "syllable": "te",
+      "syllable_source_region_id": "IKD_025_word_64_syll_0",
+      "start_sec": 181.86832233263274,
+      "end_sec": 183.02229739680882,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0117",
+      "track_id": "IKD_025",
+      "word": "tenangkan",
+      "word_source_region_id": "IKD_025_word_64",
+      "syllable": "te",
+      "syllable_source_region_id": "IKD_025_word_64_syll_0",
+      "start_sec": 181.86832233263274,
+      "end_sec": 183.02229739680882,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0118",
+      "track_id": "IKD_025",
+      "word": "hatimu",
+      "word_source_region_id": "IKD_025_word_65",
+      "syllable": "ti",
+      "syllable_source_region_id": "IKD_025_word_65_syll_1",
+      "start_sec": 184.44888300912777,
+      "end_sec": 184.9152250747595,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0119",
+      "track_id": "IKD_025",
+      "word": "hatimu",
+      "word_source_region_id": "IKD_025_word_65",
+      "syllable": "ti",
+      "syllable_source_region_id": "IKD_025_word_65_syll_1",
+      "start_sec": 184.44888300912777,
+      "end_sec": 184.9152250747595,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0120",
+      "track_id": "IKD_025",
+      "word": "hatimu",
+      "word_source_region_id": "IKD_025_word_65",
+      "syllable": "ti",
+      "syllable_source_region_id": "IKD_025_word_65_syll_1",
+      "start_sec": 184.44888300912777,
+      "end_sec": 184.9152250747595,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0121",
+      "track_id": "IKD_025",
+      "word": "pergilah",
+      "word_source_region_id": "IKD_025_word_66",
+      "syllable": "per",
+      "syllable_source_region_id": "IKD_025_word_66_syll_0",
+      "start_sec": 187.034,
+      "end_sec": 187.46925605643912,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0122",
+      "track_id": "IKD_025",
+      "word": "engkau",
+      "word_source_region_id": "IKD_025_word_67",
+      "syllable": "kau",
+      "syllable_source_region_id": "IKD_025_word_67_syll_1",
+      "start_sec": 188.62619111056947,
+      "end_sec": 189.725,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0123",
+      "track_id": "IKD_025",
+      "word": "engkau",
+      "word_source_region_id": "IKD_025_word_67",
+      "syllable": "kau",
+      "syllable_source_region_id": "IKD_025_word_67_syll_1",
+      "start_sec": 188.62619111056947,
+      "end_sec": 189.725,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0124",
+      "track_id": "IKD_025",
+      "word": "kasihku",
+      "word_source_region_id": "IKD_025_word_68",
+      "syllable": "ka",
+      "syllable_source_region_id": "IKD_025_word_68_syll_0",
+      "start_sec": 189.775,
+      "end_sec": 189.98443971292966,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0125",
+      "track_id": "IKD_025",
+      "word": "kasihku",
+      "word_source_region_id": "IKD_025_word_68",
+      "syllable": "ku",
+      "syllable_source_region_id": "IKD_025_word_68_syll_2",
+      "start_sec": 190.55638594817833,
+      "end_sec": 191.485,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0126",
+      "track_id": "IKD_025",
+      "word": "pergi",
+      "word_source_region_id": "IKD_025_word_69",
+      "syllable": "per",
+      "syllable_source_region_id": "IKD_025_word_69_syll_0",
+      "start_sec": 191.535,
+      "end_sec": 191.8870018635197,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0127",
+      "track_id": "IKD_025",
+      "word": "pergi",
+      "word_source_region_id": "IKD_025_word_69",
+      "syllable": "per",
+      "syllable_source_region_id": "IKD_025_word_69_syll_0",
+      "start_sec": 191.535,
+      "end_sec": 191.8870018635197,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0128",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_70",
+      "syllable": "ber",
+      "syllable_source_region_id": "IKD_025_word_70_syll_0",
+      "start_sec": 192.355,
+      "end_sec": 193.0176549105952,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0129",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_70",
+      "syllable": "ber",
+      "syllable_source_region_id": "IKD_025_word_70_syll_0",
+      "start_sec": 192.355,
+      "end_sec": 193.0176549105952,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0130",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_70",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_70_syll_1",
+      "start_sec": 193.0176549105952,
+      "end_sec": 193.77225232939966,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0131",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_70",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_70_syll_1",
+      "start_sec": 193.0176549105952,
+      "end_sec": 193.77225232939966,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0132",
+      "track_id": "IKD_025",
+      "word": "berjalan",
+      "word_source_region_id": "IKD_025_word_70",
+      "syllable": "lan",
+      "syllable_source_region_id": "IKD_025_word_70_syll_2",
+      "start_sec": 193.77906494586964,
+      "end_sec": 197.1,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0133",
+      "track_id": "IKD_025",
+      "word": "daku",
+      "word_source_region_id": "IKD_025_word_72",
+      "syllable": "da",
+      "syllable_source_region_id": "IKD_025_word_72_syll_0",
+      "start_sec": 197.755,
+      "end_sec": 199.57183497870668,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0134",
+      "track_id": "IKD_025",
+      "word": "daku",
+      "word_source_region_id": "IKD_025_word_72",
+      "syllable": "da",
+      "syllable_source_region_id": "IKD_025_word_72_syll_0",
+      "start_sec": 197.755,
+      "end_sec": 199.57183497870668,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0135",
+      "track_id": "IKD_025",
+      "word": "daku",
+      "word_source_region_id": "IKD_025_word_72",
+      "syllable": "da",
+      "syllable_source_region_id": "IKD_025_word_72_syll_0",
+      "start_sec": 197.755,
+      "end_sec": 199.57183497870668,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0136",
+      "track_id": "IKD_025",
+      "word": "menunggu",
+      "word_source_region_id": "IKD_025_word_73",
+      "syllable": "gu",
+      "syllable_source_region_id": "IKD_025_word_73_syll_2",
+      "start_sec": 202.118,
+      "end_sec": 204.62546566354547,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0137",
+      "track_id": "IKD_025",
+      "word": "menunggu",
+      "word_source_region_id": "IKD_025_word_73",
+      "syllable": "gu",
+      "syllable_source_region_id": "IKD_025_word_73_syll_2",
+      "start_sec": 202.118,
+      "end_sec": 204.62546566354547,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0138",
+      "track_id": "IKD_025",
+      "word": "selamanya",
+      "word_source_region_id": "IKD_025_word_74",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_74_syll_0",
+      "start_sec": 204.64140258119554,
+      "end_sec": 205.83925906489443,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0139",
+      "track_id": "IKD_025",
+      "word": "selamanya",
+      "word_source_region_id": "IKD_025_word_74",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_74_syll_0",
+      "start_sec": 204.64140258119554,
+      "end_sec": 205.83925906489443,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0140",
+      "track_id": "IKD_025",
+      "word": "hayat",
+      "word_source_region_id": "IKD_025_word_76",
+      "syllable": "yat",
+      "syllable_source_region_id": "IKD_025_word_76_syll_1",
+      "start_sec": 209.2111863407986,
+      "end_sec": 210.1819968146872,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0141",
+      "track_id": "IKD_025",
+      "word": "hayat",
+      "word_source_region_id": "IKD_025_word_76",
+      "syllable": "yat",
+      "syllable_source_region_id": "IKD_025_word_76_syll_1",
+      "start_sec": 209.2111863407986,
+      "end_sec": 210.1819968146872,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0142",
+      "track_id": "IKD_025",
+      "word": "dikandung",
+      "word_source_region_id": "IKD_025_word_77",
+      "syllable": "di",
+      "syllable_source_region_id": "IKD_025_word_77_syll_0",
+      "start_sec": 210.236,
+      "end_sec": 210.61212263454266,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0143",
+      "track_id": "IKD_025",
+      "word": "dikandung",
+      "word_source_region_id": "IKD_025_word_77",
+      "syllable": "kan",
+      "syllable_source_region_id": "IKD_025_word_77_syll_1",
+      "start_sec": 210.61212263454266,
+      "end_sec": 210.9862596029929,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0144",
+      "track_id": "IKD_025",
+      "word": "badan",
+      "word_source_region_id": "IKD_025_word_78",
+      "syllable": "ba",
+      "syllable_source_region_id": "IKD_025_word_78_syll_0",
+      "start_sec": 211.416,
+      "end_sec": 213.11445870962274,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0145",
+      "track_id": "IKD_025",
+      "word": "badan",
+      "word_source_region_id": "IKD_025_word_78",
+      "syllable": "ba",
+      "syllable_source_region_id": "IKD_025_word_78_syll_0",
+      "start_sec": 211.416,
+      "end_sec": 213.11445870962274,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0146",
+      "track_id": "IKD_025",
+      "word": "badan",
+      "word_source_region_id": "IKD_025_word_78",
+      "syllable": "dan",
+      "syllable_source_region_id": "IKD_025_word_78_syll_1",
+      "start_sec": 213.11445870962274,
+      "end_sec": 216.24890901958221,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0147",
+      "track_id": "IKD_025",
+      "word": "badan",
+      "word_source_region_id": "IKD_025_word_78",
+      "syllable": "dan",
+      "syllable_source_region_id": "IKD_025_word_78_syll_1",
+      "start_sec": 213.11445870962274,
+      "end_sec": 216.24890901958221,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0148",
+      "track_id": "IKD_025",
+      "word": "kekasih",
+      "word_source_region_id": "IKD_025_word_79",
+      "syllable": "ke",
+      "syllable_source_region_id": "IKD_025_word_79_syll_0",
+      "start_sec": 217.78023935592984,
+      "end_sec": 219.05331988509957,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0149",
+      "track_id": "IKD_025",
+      "word": "kekasih",
+      "word_source_region_id": "IKD_025_word_79",
+      "syllable": "ke",
+      "syllable_source_region_id": "IKD_025_word_79_syll_0",
+      "start_sec": 217.78023935592984,
+      "end_sec": 219.05331988509957,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0150",
+      "track_id": "IKD_025",
+      "word": "hatiku",
+      "word_source_region_id": "IKD_025_word_80",
+      "syllable": "ti",
+      "syllable_source_region_id": "IKD_025_word_80_syll_1",
+      "start_sec": 220.298,
+      "end_sec": 220.6919125726629,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0151",
+      "track_id": "IKD_025",
+      "word": "hatiku",
+      "word_source_region_id": "IKD_025_word_80",
+      "syllable": "ku",
+      "syllable_source_region_id": "IKD_025_word_80_syll_2",
+      "start_sec": 220.6919125726629,
+      "end_sec": 222.62941221546103,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0152",
+      "track_id": "IKD_025",
+      "word": "selamat",
+      "word_source_region_id": "IKD_025_word_81",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_81_syll_0",
+      "start_sec": 222.79340098060487,
+      "end_sec": 223.5387064649324,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0153",
+      "track_id": "IKD_025",
+      "word": "selamat",
+      "word_source_region_id": "IKD_025_word_81",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_81_syll_0",
+      "start_sec": 222.79340098060487,
+      "end_sec": 223.5387064649324,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0154",
+      "track_id": "IKD_025",
+      "word": "engkau",
+      "word_source_region_id": "IKD_025_word_82",
+      "syllable": "kau",
+      "syllable_source_region_id": "IKD_025_word_82_syll_1",
+      "start_sec": 224.7976273866059,
+      "end_sec": 226.10375735708809,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0155",
+      "track_id": "IKD_025",
+      "word": "engkau",
+      "word_source_region_id": "IKD_025_word_82",
+      "syllable": "kau",
+      "syllable_source_region_id": "IKD_025_word_82_syll_1",
+      "start_sec": 224.7976273866059,
+      "end_sec": 226.10375735708809,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0156",
+      "track_id": "IKD_025",
+      "word": "dalam",
+      "word_source_region_id": "IKD_025_word_83",
+      "syllable": "da",
+      "syllable_source_region_id": "IKD_025_word_83_syll_0",
+      "start_sec": 226.574,
+      "end_sec": 226.961177493944,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0157",
+      "track_id": "IKD_025",
+      "word": "dalam",
+      "word_source_region_id": "IKD_025_word_83",
+      "syllable": "lam",
+      "syllable_source_region_id": "IKD_025_word_83_syll_1",
+      "start_sec": 226.961177493944,
+      "end_sec": 227.947,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0158",
+      "track_id": "IKD_025",
+      "word": "dalam",
+      "word_source_region_id": "IKD_025_word_83",
+      "syllable": "lam",
+      "syllable_source_region_id": "IKD_025_word_83_syll_1",
+      "start_sec": 226.961177493944,
+      "end_sec": 227.947,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0159",
+      "track_id": "IKD_025",
+      "word": "dalam",
+      "word_source_region_id": "IKD_025_word_83",
+      "syllable": "lam",
+      "syllable_source_region_id": "IKD_025_word_83_syll_1",
+      "start_sec": 226.961177493944,
+      "end_sec": 227.947,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0160",
+      "track_id": "IKD_025",
+      "word": "perjalanan",
+      "word_source_region_id": "IKD_025_word_84",
+      "syllable": "per",
+      "syllable_source_region_id": "IKD_025_word_84_syll_0",
+      "start_sec": 227.997,
+      "end_sec": 228.378,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0161",
+      "track_id": "IKD_025",
+      "word": "perjalanan",
+      "word_source_region_id": "IKD_025_word_84",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_84_syll_1",
+      "start_sec": 228.378,
+      "end_sec": 230.0424695538211,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0162",
+      "track_id": "IKD_025",
+      "word": "perjalanan",
+      "word_source_region_id": "IKD_025_word_84",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_84_syll_1",
+      "start_sec": 228.378,
+      "end_sec": 230.0424695538211,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0163",
+      "track_id": "IKD_025",
+      "word": "perjalanan",
+      "word_source_region_id": "IKD_025_word_84",
+      "syllable": "ja",
+      "syllable_source_region_id": "IKD_025_word_84_syll_1",
+      "start_sec": 228.378,
+      "end_sec": 230.0424695538211,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0164",
+      "track_id": "IKD_025",
+      "word": "perjalanan",
+      "word_source_region_id": "IKD_025_word_84",
+      "syllable": "la",
+      "syllable_source_region_id": "IKD_025_word_84_syll_2",
+      "start_sec": 230.0424695538211,
+      "end_sec": 230.54831445475077,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0165",
+      "track_id": "IKD_025",
+      "word": "perjalanan",
+      "word_source_region_id": "IKD_025_word_84",
+      "syllable": "la",
+      "syllable_source_region_id": "IKD_025_word_84_syll_2",
+      "start_sec": 230.0424695538211,
+      "end_sec": 230.54831445475077,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0166",
+      "track_id": "IKD_025",
+      "word": "perjalanan",
+      "word_source_region_id": "IKD_025_word_84",
+      "syllable": "nan",
+      "syllable_source_region_id": "IKD_025_word_84_syll_3",
+      "start_sec": 230.54831445475077,
+      "end_sec": 232.813,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0167",
+      "track_id": "IKD_025",
+      "word": "selama",
+      "word_source_region_id": "IKD_025_word_85",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_85_syll_0",
+      "start_sec": 233.403,
+      "end_sec": 235.19457831486773,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0168",
+      "track_id": "IKD_025",
+      "word": "selama",
+      "word_source_region_id": "IKD_025_word_85",
+      "syllable": "se",
+      "syllable_source_region_id": "IKD_025_word_85_syll_0",
+      "start_sec": 233.403,
+      "end_sec": 235.19457831486773,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0169",
+      "track_id": "IKD_025",
+      "word": "selama",
+      "word_source_region_id": "IKD_025_word_85",
+      "syllable": "la",
+      "syllable_source_region_id": "IKD_025_word_85_syll_1",
+      "start_sec": 235.19457831486773,
+      "end_sec": 235.83560764790545,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0170",
+      "track_id": "IKD_025",
+      "word": "selama",
+      "word_source_region_id": "IKD_025_word_85",
+      "syllable": "ma",
+      "syllable_source_region_id": "IKD_025_word_85_syll_2",
+      "start_sec": 235.83560764790548,
+      "end_sec": 236.828,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0171",
+      "track_id": "IKD_025",
+      "word": "engkau",
+      "word_source_region_id": "IKD_025_word_86",
+      "syllable": "eng",
+      "syllable_source_region_id": "IKD_025_word_86_syll_0",
+      "start_sec": 236.878,
+      "end_sec": 237.3219856137823,
+      "type": "luk",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0172",
+      "track_id": "IKD_025",
+      "word": "engkau",
+      "word_source_region_id": "IKD_025_word_86",
+      "syllable": "eng",
+      "syllable_source_region_id": "IKD_025_word_86_syll_0",
+      "start_sec": 236.878,
+      "end_sec": 237.3219856137823,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0173",
+      "track_id": "IKD_025",
+      "word": "jauh",
+      "word_source_region_id": "IKD_025_word_87",
+      "syllable": "jauh",
+      "syllable_source_region_id": "IKD_025_word_87_syll_0",
+      "start_sec": 237.8100843854561,
+      "end_sec": 240.69262986940635,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0174",
+      "track_id": "IKD_025",
+      "word": "di",
+      "word_source_region_id": "IKD_025_word_88",
+      "syllable": "di",
+      "syllable_source_region_id": "IKD_025_word_88_syll_0",
+      "start_sec": 241.458,
+      "end_sec": 241.889,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0175",
+      "track_id": "IKD_025",
+      "word": "di",
+      "word_source_region_id": "IKD_025_word_88",
+      "syllable": "di",
+      "syllable_source_region_id": "IKD_025_word_88_syll_0",
+      "start_sec": 241.458,
+      "end_sec": 241.889,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0176",
+      "track_id": "IKD_025",
+      "word": "kau",
+      "word_source_region_id": "IKD_025_word_90",
+      "syllable": "kau",
+      "syllable_source_region_id": "IKD_025_word_90_syll_0",
+      "start_sec": 243.61,
+      "end_sec": 244.04341257429982,
+      "type": "luk",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0177",
+      "track_id": "IKD_025",
+      "word": "kau",
+      "word_source_region_id": "IKD_025_word_90",
+      "syllable": "kau",
+      "syllable_source_region_id": "IKD_025_word_90_syll_0",
+      "start_sec": 243.61,
+      "end_sec": 244.04341257429982,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0178",
+      "track_id": "IKD_025",
+      "word": "selalu",
+      "word_source_region_id": "IKD_025_word_91",
+      "syllable": "la",
+      "syllable_source_region_id": "IKD_025_word_91_syll_1",
+      "start_sec": 244.56277075204437,
+      "end_sec": 244.92390416609524,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0179",
+      "track_id": "IKD_025",
+      "word": "selalu",
+      "word_source_region_id": "IKD_025_word_91",
+      "syllable": "lu",
+      "syllable_source_region_id": "IKD_025_word_91_syll_2",
+      "start_sec": 244.92624011539036,
+      "end_sec": 245.93582162512902,
+      "type": "gregel",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0180",
+      "track_id": "IKD_025",
+      "word": "bayangan",
+      "word_source_region_id": "IKD_025_word_93",
+      "syllable": "ba",
+      "syllable_source_region_id": "IKD_025_word_93_syll_0",
+      "start_sec": 246.999,
+      "end_sec": 247.38,
+      "type": "nggandhul",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0181",
+      "track_id": "IKD_025",
+      "word": "bayangan",
+      "word_source_region_id": "IKD_025_word_93",
+      "syllable": "ba",
+      "syllable_source_region_id": "IKD_025_word_93_syll_0",
+      "start_sec": 246.999,
+      "end_sec": 247.38,
+      "type": "embat",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0182",
+      "track_id": "IKD_025",
+      "word": "bayangan",
+      "word_source_region_id": "IKD_025_word_93",
+      "syllable": "ya",
+      "syllable_source_region_id": "IKD_025_word_93_syll_1",
+      "start_sec": 247.38,
+      "end_sec": 248.0141600337305,
+      "type": "luk",
+      "luk_direction": "atas"
+    },
+    {
+      "event_id": "IKD_025_E0183",
+      "track_id": "IKD_025",
+      "word": "bayangan",
+      "word_source_region_id": "IKD_025_word_93",
+      "syllable": "ya",
+      "syllable_source_region_id": "IKD_025_word_93_syll_1",
+      "start_sec": 247.38,
+      "end_sec": 248.0141600337305,
+      "type": "cengkok",
+      "luk_direction": null
+    },
+    {
+      "event_id": "IKD_025_E0184",
+      "track_id": "IKD_025",
+      "word": "bayangan",
+      "word_source_region_id": "IKD_025_word_93",
+      "syllable": "ngan",
+      "syllable_source_region_id": "IKD_025_word_93_syll_2",
+      "start_sec": 248.01829380477525,
+      "end_sec": 253.38,
+      "type": "luk",
+      "luk_direction": "bawah"
+    },
+    {
+      "event_id": "IKD_025_E0185",
+      "track_id": "IKD_025",
+      "word": "bayangan",
+      "word_source_region_id": "IKD_025_word_93",
+      "syllable": "ngan",
+      "syllable_source_region_id": "IKD_025_word_93_syll_2",
+      "start_sec": 248.01829380477525,
+      "end_sec": 253.38,
+      "type": "gregel",
+      "luk_direction": null
+    }
+  ],
+  "annotation_counts": {
+    "words": 93,
+    "syllables": 222,
+    "unparented_syllables": 0,
+    "melisma_events": 185,
+    "syllables_attached_by_source_id": 222,
+    "syllables_attached_by_manual_parent_override": 0,
+    "syllables_attached_by_unique_timestamp_containment": 0
+  }
+}

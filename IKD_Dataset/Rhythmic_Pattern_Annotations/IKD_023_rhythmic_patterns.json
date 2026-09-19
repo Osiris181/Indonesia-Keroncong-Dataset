@@ -1,0 +1,11 @@
+{
+  "schema_version": "IKD_rhythmic_pattern_annotations_v1",
+  "track_id": "IKD_023",
+  "time_unit": "seconds",
+  "time_resolution_sec": 1.0,
+  "meters": [],
+  "meter_uncertain": false,
+  "general_note": "Rhythm use Chacha, not keroncong.",
+  "segment_count": 0,
+  "segments": []
+}

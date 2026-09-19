@@ -1,0 +1,44 @@
+{
+  "schema_version": "IKD_rhythmic_pattern_annotations_v1",
+  "track_id": "IKD_021",
+  "time_unit": "seconds",
+  "time_resolution_sec": 1.0,
+  "meters": [
+    "4/4"
+  ],
+  "meter_uncertain": false,
+  "general_note": null,
+  "segment_count": 3,
+  "segments": [
+    {
+      "segment_id": "IKD_021_RP0001",
+      "start_sec": 0.0,
+      "end_sec": 57.0,
+      "rhythmic_patterns": [
+        "lainnya"
+      ],
+      "uncertain": false,
+      "note": "mostly solo instruments"
+    },
+    {
+      "segment_id": "IKD_021_RP0002",
+      "start_sec": 57.0,
+      "end_sec": 63.0,
+      "rhythmic_patterns": [
+        "engkel"
+      ],
+      "uncertain": false,
+      "note": null
+    },
+    {
+      "segment_id": "IKD_021_RP0003",
+      "start_sec": 222.0,
+      "end_sec": 340.0,
+      "rhythmic_patterns": [
+        "double"
+      ],
+      "uncertain": false,
+      "note": null
+    }
+  ]
+}

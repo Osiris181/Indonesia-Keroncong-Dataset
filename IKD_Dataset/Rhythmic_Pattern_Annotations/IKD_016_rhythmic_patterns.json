@@ -1,0 +1,32 @@
+{
+  "schema_version": "IKD_rhythmic_pattern_annotations_v1",
+  "track_id": "IKD_016",
+  "time_unit": "seconds",
+  "time_resolution_sec": 1.0,
+  "meters": [],
+  "meter_uncertain": false,
+  "general_note": null,
+  "segment_count": 2,
+  "segments": [
+    {
+      "segment_id": "IKD_016_RP0001",
+      "start_sec": 3.0,
+      "end_sec": 230.0,
+      "rhythmic_patterns": [
+        "engkel"
+      ],
+      "uncertain": false,
+      "note": null
+    },
+    {
+      "segment_id": "IKD_016_RP0002",
+      "start_sec": 230.0,
+      "end_sec": 234.0,
+      "rhythmic_patterns": [
+        "double"
+      ],
+      "uncertain": false,
+      "note": null
+    }
+  ]
+}

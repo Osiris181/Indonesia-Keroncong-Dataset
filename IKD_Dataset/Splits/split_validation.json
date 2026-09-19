@@ -1,0 +1,112 @@
+{
+  "status": "passed",
+  "expected_role_counts_per_performer_group": {
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "performer_group_role_counts": {
+    "Budi Doremi": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Dian Piesesha": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Dony Koeswinarno & Keroncong Indonesiaku": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Fadhila": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Gesang": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Ika  Kurniawati": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Indra Utami Tamsir": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Mus Mulyadi": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "NIKEN SALINDRY FT SIHO": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Oslan Husein": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Paksi Raras Alit Band": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Prapty Teng-Teng": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Remember Entertainment": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Sasya Arkhisna": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Sundari Soekotjo": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Toto Salmon": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Tuti Tri Sedya": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    },
+    "Yoriko Angeline": {
+      "train": 3,
+      "validation": 1,
+      "test": 1
+    }
+  },
+  "errors": [],
+  "tracks": 30,
+  "performer_groups": 18,
+  "outer_folds": 5,
+  "validation_policy": "cyclic_fold",
+  "all_positive_labels": [
+    "luk",
+    "cengkok",
+    "gregel",
+    "embat",
+    "nggandhul"
+  ]
+}

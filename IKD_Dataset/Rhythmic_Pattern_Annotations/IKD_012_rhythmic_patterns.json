@@ -1,0 +1,92 @@
+{
+  "schema_version": "IKD_rhythmic_pattern_annotations_v1",
+  "track_id": "IKD_012",
+  "time_unit": "seconds",
+  "time_resolution_sec": 1.0,
+  "meters": [],
+  "meter_uncertain": false,
+  "general_note": null,
+  "segment_count": 8,
+  "segments": [
+    {
+      "segment_id": "IKD_012_RP0001",
+      "start_sec": 45.0,
+      "end_sec": 67.0,
+      "rhythmic_patterns": [
+        "lainnya"
+      ],
+      "uncertain": false,
+      "note": null
+    },
+    {
+      "segment_id": "IKD_012_RP0002",
+      "start_sec": 67.0,
+      "end_sec": 105.0,
+      "rhythmic_patterns": [
+        "engkel"
+      ],
+      "uncertain": false,
+      "note": null
+    },
+    {
+      "segment_id": "IKD_012_RP0003",
+      "start_sec": 105.0,
+      "end_sec": 183.0,
+      "rhythmic_patterns": [
+        "double"
+      ],
+      "uncertain": false,
+      "note": null
+    },
+    {
+      "segment_id": "IKD_012_RP0004",
+      "start_sec": 183.0,
+      "end_sec": 202.0,
+      "rhythmic_patterns": [
+        "engkel"
+      ],
+      "uncertain": false,
+      "note": null
+    },
+    {
+      "segment_id": "IKD_012_RP0005",
+      "start_sec": 218.0,
+      "end_sec": 236.0,
+      "rhythmic_patterns": [
+        "double"
+      ],
+      "uncertain": false,
+      "note": null
+    },
+    {
+      "segment_id": "IKD_012_RP0006",
+      "start_sec": 244.0,
+      "end_sec": 287.0,
+      "rhythmic_patterns": [
+        "engkel"
+      ],
+      "uncertain": false,
+      "note": null
+    },
+    {
+      "segment_id": "IKD_012_RP0007",
+      "start_sec": 287.0,
+      "end_sec": 351.0,
+      "rhythmic_patterns": [
+        "double"
+      ],
+      "uncertain": false,
+      "note": null
+    },
+    {
+      "segment_id": "IKD_012_RP0008",
+      "start_sec": 351.0,
+      "end_sec": 370.0,
+      "rhythmic_patterns": [
+        "lainnya"
+      ],
+      "uncertain": false,
+      "note": null
+    }
+  ]
+}

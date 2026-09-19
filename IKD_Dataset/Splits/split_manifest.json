@@ -1,0 +1,633 @@
+{
+  "schema_version": "IKD_performer_grouped_rotating_folds_v2",
+  "input_csv": "IKD_Dataset/Indonesian_Keroncong_Dataset.csv",
+  "split_unit": "performer_group_id",
+  "outer_fold_count": 5,
+  "base_fold_assignment_file": "five_fold_song_groups.csv",
+  "random_seed": 20260815,
+  "outer_restarts": 400,
+  "validation_policy": "cyclic_fold",
+  "validation_fold_offset": 1,
+  "validation_fraction_target": null,
+  "expected_role_counts_per_performer_group": {
+    "train": 3,
+    "validation": 1,
+    "test": 1
+  },
+  "labels": [
+    "luk",
+    "cengkok",
+    "gregel",
+    "embat",
+    "nggandhul"
+  ],
+  "no_melisma_policy": "Included as an all-zero training sample and a secondary balance statistic; not a sixth target label.",
+  "balance_fields": [
+    "syllables",
+    "no_melisma",
+    "luk",
+    "cengkok",
+    "gregel",
+    "embat",
+    "nggandhul"
+  ],
+  "balance_weights": {
+    "syllables": 0.15,
+    "no_melisma": 0.25,
+    "luk": 1.0,
+    "cengkok": 1.0,
+    "gregel": 1.0,
+    "embat": 1.0,
+    "nggandhul": 1.0
+  },
+  "outer_balance_objective": 1.4660270063275125,
+  "partitions": [
+    {
+      "outer_fold": 1,
+      "outer_balance_objective": 1.4660270063275125,
+      "validation_balance_objective": null,
+      "validation_source_fold": 2,
+      "roles": {
+        "train": {
+          "performer_group_ids": [
+            "Fadhila",
+            "Gesang",
+            "Mus Mulyadi",
+            "NIKEN SALINDRY FT SIHO",
+            "Oslan Husein",
+            "Paksi Raras Alit Band",
+            "Remember Entertainment",
+            "Sasya Arkhisna",
+            "Sundari Soekotjo",
+            "Tuti Tri Sedya"
+          ],
+          "track_ids": [
+            "IKD_002",
+            "IKD_003",
+            "IKD_004",
+            "IKD_005",
+            "IKD_007",
+            "IKD_011",
+            "IKD_012",
+            "IKD_013",
+            "IKD_015",
+            "IKD_016",
+            "IKD_018",
+            "IKD_020",
+            "IKD_022",
+            "IKD_023",
+            "IKD_025",
+            "IKD_027",
+            "IKD_028",
+            "IKD_029"
+          ],
+          "performer_groups": 10,
+          "tracks": 18,
+          "genre_counts": {
+            "Keroncong Asli": 6,
+            "Langgam": 5,
+            "Pop Keroncong": 4,
+            "Stambul": 3
+          },
+          "syllables": 3946,
+          "no_melisma": 2399,
+          "luk": 1040,
+          "cengkok": 212,
+          "gregel": 351,
+          "embat": 311,
+          "nggandhul": 176
+        },
+        "validation": {
+          "performer_group_ids": [
+            "Dian Piesesha",
+            "Ika  Kurniawati",
+            "Indra Utami Tamsir",
+            "Prapty Teng-Teng",
+            "Yoriko Angeline"
+          ],
+          "track_ids": [
+            "IKD_001",
+            "IKD_006",
+            "IKD_008",
+            "IKD_010",
+            "IKD_014",
+            "IKD_030"
+          ],
+          "performer_groups": 5,
+          "tracks": 6,
+          "genre_counts": {
+            "Keroncong Asli": 2,
+            "Pop Keroncong": 4
+          },
+          "syllables": 1575,
+          "no_melisma": 1041,
+          "luk": 318,
+          "cengkok": 65,
+          "gregel": 129,
+          "embat": 65,
+          "nggandhul": 57
+        },
+        "test": {
+          "performer_group_ids": [
+            "Budi Doremi",
+            "Dony Koeswinarno & Keroncong Indonesiaku",
+            "Toto Salmon"
+          ],
+          "track_ids": [
+            "IKD_009",
+            "IKD_017",
+            "IKD_019",
+            "IKD_021",
+            "IKD_024",
+            "IKD_026"
+          ],
+          "performer_groups": 3,
+          "tracks": 6,
+          "genre_counts": {
+            "Keroncong Asli": 2,
+            "Pop Keroncong": 1,
+            "Stambul": 3
+          },
+          "syllables": 1251,
+          "no_melisma": 656,
+          "luk": 300,
+          "cengkok": 97,
+          "gregel": 133,
+          "embat": 187,
+          "nggandhul": 118
+        }
+      }
+    },
+    {
+      "outer_fold": 2,
+      "outer_balance_objective": 1.4660270063275125,
+      "validation_balance_objective": null,
+      "validation_source_fold": 3,
+      "roles": {
+        "train": {
+          "performer_group_ids": [
+            "Budi Doremi",
+            "Dony Koeswinarno & Keroncong Indonesiaku",
+            "Gesang",
+            "Mus Mulyadi",
+            "Oslan Husein",
+            "Paksi Raras Alit Band",
+            "Remember Entertainment",
+            "Sundari Soekotjo",
+            "Toto Salmon"
+          ],
+          "track_ids": [
+            "IKD_002",
+            "IKD_003",
+            "IKD_004",
+            "IKD_007",
+            "IKD_009",
+            "IKD_011",
+            "IKD_013",
+            "IKD_015",
+            "IKD_016",
+            "IKD_017",
+            "IKD_018",
+            "IKD_019",
+            "IKD_021",
+            "IKD_022",
+            "IKD_023",
+            "IKD_024",
+            "IKD_026",
+            "IKD_027",
+            "IKD_029"
+          ],
+          "performer_groups": 9,
+          "tracks": 19,
+          "genre_counts": {
+            "Keroncong Asli": 7,
+            "Langgam": 4,
+            "Pop Keroncong": 3,
+            "Stambul": 5
+          },
+          "syllables": 3860,
+          "no_melisma": 2221,
+          "luk": 1021,
+          "cengkok": 238,
+          "gregel": 363,
+          "embat": 397,
+          "nggandhul": 237
+        },
+        "validation": {
+          "performer_group_ids": [
+            "Fadhila",
+            "NIKEN SALINDRY FT SIHO",
+            "Sasya Arkhisna",
+            "Tuti Tri Sedya"
+          ],
+          "track_ids": [
+            "IKD_005",
+            "IKD_012",
+            "IKD_020",
+            "IKD_025",
+            "IKD_028"
+          ],
+          "performer_groups": 4,
+          "tracks": 5,
+          "genre_counts": {
+            "Keroncong Asli": 1,
+            "Langgam": 1,
+            "Pop Keroncong": 2,
+            "Stambul": 1
+          },
+          "syllables": 1337,
+          "no_melisma": 834,
+          "luk": 319,
+          "cengkok": 71,
+          "gregel": 121,
+          "embat": 101,
+          "nggandhul": 57
+        },
+        "test": {
+          "performer_group_ids": [
+            "Dian Piesesha",
+            "Ika  Kurniawati",
+            "Indra Utami Tamsir",
+            "Prapty Teng-Teng",
+            "Yoriko Angeline"
+          ],
+          "track_ids": [
+            "IKD_001",
+            "IKD_006",
+            "IKD_008",
+            "IKD_010",
+            "IKD_014",
+            "IKD_030"
+          ],
+          "performer_groups": 5,
+          "tracks": 6,
+          "genre_counts": {
+            "Keroncong Asli": 2,
+            "Pop Keroncong": 4
+          },
+          "syllables": 1575,
+          "no_melisma": 1041,
+          "luk": 318,
+          "cengkok": 65,
+          "gregel": 129,
+          "embat": 65,
+          "nggandhul": 57
+        }
+      }
+    },
+    {
+      "outer_fold": 3,
+      "outer_balance_objective": 1.4660270063275125,
+      "validation_balance_objective": null,
+      "validation_source_fold": 4,
+      "roles": {
+        "train": {
+          "performer_group_ids": [
+            "Budi Doremi",
+            "Dian Piesesha",
+            "Dony Koeswinarno & Keroncong Indonesiaku",
+            "Ika  Kurniawati",
+            "Indra Utami Tamsir",
+            "Paksi Raras Alit Band",
+            "Prapty Teng-Teng",
+            "Remember Entertainment",
+            "Sundari Soekotjo",
+            "Toto Salmon",
+            "Yoriko Angeline"
+          ],
+          "track_ids": [
+            "IKD_001",
+            "IKD_003",
+            "IKD_006",
+            "IKD_007",
+            "IKD_008",
+            "IKD_009",
+            "IKD_010",
+            "IKD_011",
+            "IKD_014",
+            "IKD_015",
+            "IKD_017",
+            "IKD_019",
+            "IKD_021",
+            "IKD_022",
+            "IKD_024",
+            "IKD_026",
+            "IKD_029",
+            "IKD_030"
+          ],
+          "performer_groups": 11,
+          "tracks": 18,
+          "genre_counts": {
+            "Keroncong Asli": 7,
+            "Langgam": 2,
+            "Pop Keroncong": 6,
+            "Stambul": 3
+          },
+          "syllables": 4247,
+          "no_melisma": 2588,
+          "luk": 954,
+          "cengkok": 233,
+          "gregel": 381,
+          "embat": 371,
+          "nggandhul": 236
+        },
+        "validation": {
+          "performer_group_ids": [
+            "Gesang",
+            "Mus Mulyadi",
+            "Oslan Husein"
+          ],
+          "track_ids": [
+            "IKD_002",
+            "IKD_004",
+            "IKD_013",
+            "IKD_016",
+            "IKD_018",
+            "IKD_023",
+            "IKD_027"
+          ],
+          "performer_groups": 3,
+          "tracks": 7,
+          "genre_counts": {
+            "Keroncong Asli": 2,
+            "Langgam": 2,
+            "Pop Keroncong": 1,
+            "Stambul": 2
+          },
+          "syllables": 1188,
+          "no_melisma": 674,
+          "luk": 385,
+          "cengkok": 70,
+          "gregel": 111,
+          "embat": 91,
+          "nggandhul": 58
+        },
+        "test": {
+          "performer_group_ids": [
+            "Fadhila",
+            "NIKEN SALINDRY FT SIHO",
+            "Sasya Arkhisna",
+            "Tuti Tri Sedya"
+          ],
+          "track_ids": [
+            "IKD_005",
+            "IKD_012",
+            "IKD_020",
+            "IKD_025",
+            "IKD_028"
+          ],
+          "performer_groups": 4,
+          "tracks": 5,
+          "genre_counts": {
+            "Keroncong Asli": 1,
+            "Langgam": 1,
+            "Pop Keroncong": 2,
+            "Stambul": 1
+          },
+          "syllables": 1337,
+          "no_melisma": 834,
+          "luk": 319,
+          "cengkok": 71,
+          "gregel": 121,
+          "embat": 101,
+          "nggandhul": 57
+        }
+      }
+    },
+    {
+      "outer_fold": 4,
+      "outer_balance_objective": 1.4660270063275125,
+      "validation_balance_objective": null,
+      "validation_source_fold": 5,
+      "roles": {
+        "train": {
+          "performer_group_ids": [
+            "Budi Doremi",
+            "Dian Piesesha",
+            "Dony Koeswinarno & Keroncong Indonesiaku",
+            "Fadhila",
+            "Ika  Kurniawati",
+            "Indra Utami Tamsir",
+            "NIKEN SALINDRY FT SIHO",
+            "Prapty Teng-Teng",
+            "Sasya Arkhisna",
+            "Toto Salmon",
+            "Tuti Tri Sedya",
+            "Yoriko Angeline"
+          ],
+          "track_ids": [
+            "IKD_001",
+            "IKD_005",
+            "IKD_006",
+            "IKD_008",
+            "IKD_009",
+            "IKD_010",
+            "IKD_012",
+            "IKD_014",
+            "IKD_017",
+            "IKD_019",
+            "IKD_020",
+            "IKD_021",
+            "IKD_024",
+            "IKD_025",
+            "IKD_026",
+            "IKD_028",
+            "IKD_030"
+          ],
+          "performer_groups": 12,
+          "tracks": 17,
+          "genre_counts": {
+            "Keroncong Asli": 5,
+            "Langgam": 1,
+            "Pop Keroncong": 7,
+            "Stambul": 4
+          },
+          "syllables": 4163,
+          "no_melisma": 2531,
+          "luk": 937,
+          "cengkok": 233,
+          "gregel": 383,
+          "embat": 353,
+          "nggandhul": 232
+        },
+        "validation": {
+          "performer_group_ids": [
+            "Paksi Raras Alit Band",
+            "Remember Entertainment",
+            "Sundari Soekotjo"
+          ],
+          "track_ids": [
+            "IKD_003",
+            "IKD_007",
+            "IKD_011",
+            "IKD_015",
+            "IKD_022",
+            "IKD_029"
+          ],
+          "performer_groups": 3,
+          "tracks": 6,
+          "genre_counts": {
+            "Keroncong Asli": 3,
+            "Langgam": 2,
+            "Pop Keroncong": 1
+          },
+          "syllables": 1421,
+          "no_melisma": 891,
+          "luk": 336,
+          "cengkok": 71,
+          "gregel": 119,
+          "embat": 119,
+          "nggandhul": 61
+        },
+        "test": {
+          "performer_group_ids": [
+            "Gesang",
+            "Mus Mulyadi",
+            "Oslan Husein"
+          ],
+          "track_ids": [
+            "IKD_002",
+            "IKD_004",
+            "IKD_013",
+            "IKD_016",
+            "IKD_018",
+            "IKD_023",
+            "IKD_027"
+          ],
+          "performer_groups": 3,
+          "tracks": 7,
+          "genre_counts": {
+            "Keroncong Asli": 2,
+            "Langgam": 2,
+            "Pop Keroncong": 1,
+            "Stambul": 2
+          },
+          "syllables": 1188,
+          "no_melisma": 674,
+          "luk": 385,
+          "cengkok": 70,
+          "gregel": 111,
+          "embat": 91,
+          "nggandhul": 58
+        }
+      }
+    },
+    {
+      "outer_fold": 5,
+      "outer_balance_objective": 1.4660270063275125,
+      "validation_balance_objective": null,
+      "validation_source_fold": 1,
+      "roles": {
+        "train": {
+          "performer_group_ids": [
+            "Dian Piesesha",
+            "Fadhila",
+            "Gesang",
+            "Ika  Kurniawati",
+            "Indra Utami Tamsir",
+            "Mus Mulyadi",
+            "NIKEN SALINDRY FT SIHO",
+            "Oslan Husein",
+            "Prapty Teng-Teng",
+            "Sasya Arkhisna",
+            "Tuti Tri Sedya",
+            "Yoriko Angeline"
+          ],
+          "track_ids": [
+            "IKD_001",
+            "IKD_002",
+            "IKD_004",
+            "IKD_005",
+            "IKD_006",
+            "IKD_008",
+            "IKD_010",
+            "IKD_012",
+            "IKD_013",
+            "IKD_014",
+            "IKD_016",
+            "IKD_018",
+            "IKD_020",
+            "IKD_023",
+            "IKD_025",
+            "IKD_027",
+            "IKD_028",
+            "IKD_030"
+          ],
+          "performer_groups": 12,
+          "tracks": 18,
+          "genre_counts": {
+            "Keroncong Asli": 5,
+            "Langgam": 3,
+            "Pop Keroncong": 7,
+            "Stambul": 3
+          },
+          "syllables": 4100,
+          "no_melisma": 2549,
+          "luk": 1022,
+          "cengkok": 206,
+          "gregel": 361,
+          "embat": 257,
+          "nggandhul": 172
+        },
+        "validation": {
+          "performer_group_ids": [
+            "Budi Doremi",
+            "Dony Koeswinarno & Keroncong Indonesiaku",
+            "Toto Salmon"
+          ],
+          "track_ids": [
+            "IKD_009",
+            "IKD_017",
+            "IKD_019",
+            "IKD_021",
+            "IKD_024",
+            "IKD_026"
+          ],
+          "performer_groups": 3,
+          "tracks": 6,
+          "genre_counts": {
+            "Keroncong Asli": 2,
+            "Pop Keroncong": 1,
+            "Stambul": 3
+          },
+          "syllables": 1251,
+          "no_melisma": 656,
+          "luk": 300,
+          "cengkok": 97,
+          "gregel": 133,
+          "embat": 187,
+          "nggandhul": 118
+        },
+        "test": {
+          "performer_group_ids": [
+            "Paksi Raras Alit Band",
+            "Remember Entertainment",
+            "Sundari Soekotjo"
+          ],
+          "track_ids": [
+            "IKD_003",
+            "IKD_007",
+            "IKD_011",
+            "IKD_015",
+            "IKD_022",
+            "IKD_029"
+          ],
+          "performer_groups": 3,
+          "tracks": 6,
+          "genre_counts": {
+            "Keroncong Asli": 3,
+            "Langgam": 2,
+            "Pop Keroncong": 1
+          },
+          "syllables": 1421,
+          "no_melisma": 891,
+          "luk": 336,
+          "cengkok": 71,
+          "gregel": 119,
+          "embat": 119,
+          "nggandhul": 61
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+IKD reference-text lyrics-alignment baseline
+
+Audio input  | Level    | Onset MAE (s) | Onset MedAE (s) | PCO@0.3 | PCS
+Original mix | Word     | 60.244        | 50.216          | 0.1329  | 0.1112
+Original mix | Syllable | 61.537        | 51.744          | 0.1260  | 0.0963
+Vocal stem   | Word     | 4.571         | 0.040           | 0.7635  | 0.6374
+Vocal stem   | Syllable | 4.525         | 0.048           | 0.7448  | 0.5624
+
+Lower onset errors are better. Higher PCO@0.3 and PCS are better.

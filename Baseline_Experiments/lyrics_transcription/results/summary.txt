@@ -1,0 +1,14 @@
+IKD lyrics transcription baseline
+
+Audio source   Policy     Tracks       WER       CER  Sub rate  Del rate  Ins rate
+----------------------------------------------------------------------------------
+original_mix   masked         30    0.6391    0.4834    0.2263    0.4030    0.0099
+original_mix   unmasked       30    0.6425    0.4881    0.2416    0.3911    0.0099
+vocal_stem     masked         30    0.3761    0.1418    0.2779    0.0601    0.0381
+vocal_stem     unmasked       30    0.3901    0.1535    0.2803    0.0581    0.0516
+
+Primary aggregation: corpus-level micro error rates.
+CER unit: normalized non-whitespace Unicode characters.
+Masked policy: remove timestamped hypothesis words whose midpoint falls
+inside an annotated [non-lexical] interval.
+Unmasked policy: retain the complete full-audio hypothesis.

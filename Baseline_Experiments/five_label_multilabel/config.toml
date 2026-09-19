@@ -1,0 +1,127 @@
+# Locked configuration for the cached framewise MusicFM and pitch experiments.
+
+schema_version = "IKD_five_label_framewise_musicfm_pitch_v1"
+
+[task]
+name = "five_label_multilabel"
+label_order = ["luk", "cengkok", "gregel", "embat", "nggandhul"]
+target_formulation = "five_label"
+
+[cross_validation]
+runs = [1, 2, 3, 4, 5]
+seeds = [64, 128, 256]
+split_column_template = "fold_{run}_split"
+group_column = "performer_group_id"
+
+[features.musicfm]
+encoder = "MusicFM25Hz"
+checkpoint = "MSD"
+source = "htdemucs_vocal_stem"
+sample_rate_hz = 24000
+frame_rate_hz = 25
+token_step_samples = 960
+hidden_layer_index = 7
+embedding_dimension = 1024
+chunk_core_seconds = 30
+chunk_context_seconds = 5
+boundary_padding = false
+normalization = "per_frame_layer_norm"
+layer_norm_epsilon = 0.00001
+random_seed = 20260816
+
+[features.pitch]
+extractor = "torchcrepe"
+model_capacity = "full"
+source = "htdemucs_vocal_stem"
+sample_rate_hz = 16000
+source_frame_rate_hz = 100
+hop_length_samples = 160
+minimum_frequency_hz = 50.0
+maximum_frequency_hz = 1000.0
+batch_size_frames = 2048
+decoder = "viterbi_bin_center"
+frequency_dither = false
+random_seed = 20260815
+target_frame_rate_hz = 25
+alignment = "select_every_fourth_frame"
+interpolation = false
+periodicity_threshold = 0.50
+representation = "track_relative_semitone_periodicity_reliability"
+dimension = 3
+
+[model.temporal]
+type = "residual_dilated_conv1d"
+projection_channels = 256
+temporal_channels = 256
+kernel_size = 5
+dilations = [1, 2, 4, 8]
+residual_blocks = 4
+activation = "relu"
+dropout = 0.30
+dropout_type = "channel"
+normalization = "per_frame_layer_norm"
+causal = false
+padding = "same"
+syllable_pooling = "mean_logits"
+output_dimension = 5
+
+[training]
+optimizer = "adamw"
+learning_rate = 0.001
+weight_decay = 0.0001
+batch_unit = "complete_track"
+batch_size_tracks = 1
+shuffle_training_tracks = true
+gradient_accumulation_steps = 1
+maximum_epochs = 100
+gradient_clip_norm = 5.0
+scheduler = "none"
+num_workers = 0
+pin_memory = false
+mixed_precision = false
+deterministic_algorithms = true
+loss_normalization = "sum_valid_syllable_losses_divided_by_batch_tracks_times_training_mean_syllables_per_track"
+
+[[experiments]]
+name = "temporal_five_label_musicfm"
+display_name = "MusicFM"
+enabled = true
+include_pitch = false
+input_dimension = 1024
+
+[[experiments]]
+name = "temporal_five_label_musicfm_pitch"
+display_name = "MusicFM + pitch"
+enabled = true
+include_pitch = true
+input_dimension = 1027
+
+[loss]
+name = "bce_with_logits"
+positive_weight_formula = "negative_count / positive_count"
+positive_weight_source = "training_partition_only"
+positive_weight_cap_enabled = false
+
+[early_stopping]
+metric = "macro_average_precision"
+mode = "max"
+patience = 12
+minimum_delta = 0.0001
+restore_best_checkpoint = true
+
+[threshold_selection]
+scope = "one_per_label"
+source = "validation_partition_only"
+metric = "f1"
+minimum = 0.05
+maximum = 0.95
+step = 0.01
+tie_break = "closest_to_0.5_then_lower"
+
+[output]
+save_best_checkpoint = true
+save_test_probabilities = true
+save_test_binary_predictions = true
+save_targets = true
+save_positive_weights = true
+save_validation_thresholds = true

@@ -1,0 +1,52 @@
+{
+  "schema_version": "IKD_rhythmic_pattern_annotations_v1",
+  "track_id": "IKD_022",
+  "time_unit": "seconds",
+  "time_resolution_sec": 1.0,
+  "meters": [],
+  "meter_uncertain": false,
+  "general_note": null,
+  "segment_count": 4,
+  "segments": [
+    {
+      "segment_id": "IKD_022_RP0001",
+      "start_sec": 0.0,
+      "end_sec": 26.0,
+      "rhythmic_patterns": [
+        "lainnya"
+      ],
+      "uncertain": false,
+      "note": "mostly solo between instruments."
+    },
+    {
+      "segment_id": "IKD_022_RP0002",
+      "start_sec": 26.0,
+      "end_sec": 188.0,
+      "rhythmic_patterns": [
+        "engkel"
+      ],
+      "uncertain": false,
+      "note": null
+    },
+    {
+      "segment_id": "IKD_022_RP0003",
+      "start_sec": 188.0,
+      "end_sec": 316.0,
+      "rhythmic_patterns": [
+        "double"
+      ],
+      "uncertain": false,
+      "note": null
+    },
+    {
+      "segment_id": "IKD_022_RP0004",
+      "start_sec": 316.0,
+      "end_sec": 325.0,
+      "rhythmic_patterns": [
+        "engkel"
+      ],
+      "uncertain": false,
+      "note": "should be the coda."
+    }
+  ]
+}

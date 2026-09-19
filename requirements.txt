@@ -1,0 +1,30 @@
+# Tested with Python 3.12.11 and uv 0.9.7.
+# Install with: uv pip install -r requirements.txt
+# The reported GPU experiments used PyTorch 2.8.0+cu128.
+#
+# FFmpeg is also required by yt-dlp and WhisperX, but it must be installed
+# separately as a system executable.
+
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.18.0
+scikit-learn==1.9.0
+librosa==0.11.0
+soundfile==0.14.0
+tqdm==4.68.3
+
+torch==2.8.0
+torchaudio==2.8.0
+torchcrepe==0.0.24
+transformers==4.57.6
+einops==0.8.2
+huggingface-hub==0.36.2
+
+yt-dlp
+demucs==4.0.1
+
+whisperx==3.8.6
+faster-whisper==1.2.1
+ctranslate2==4.8.1
+pyannote.audio==4.0.7
+torchcodec==0.7.0

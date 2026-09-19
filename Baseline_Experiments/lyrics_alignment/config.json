@@ -1,0 +1,30 @@
+{
+  "schema_version": "IKD_whisperx_reference_text_alignment_config_v1",
+  "experiment_name": "whisperx_reference_text_ctc",
+  "model": {
+    "name": "indonesian-nlp/wav2vec2-indonesian-javanese-sundanese",
+    "language_code": "id",
+    "device": "cuda",
+    "device_index": 0,
+    "interpolate_method": "nearest",
+    "return_char_alignments": true
+  },
+  "reference_run": {
+    "model_revision_observed": "e5e699fa5aa5bdce999276a90a29589587b58ac9",
+    "revision_is_enforced_by_loader": false
+  },
+  "audio_sources": {
+    "original_mix": "original_mix.wav",
+    "vocal_stem": "vocals.wav"
+  },
+  "alignment_policy": {
+    "audio_span": "complete_track",
+    "reference_text": "normalized_lexical_words_only",
+    "non_lexical_audio": "retained",
+    "annotated_timestamps_available_to_model": false,
+    "annotated_non_lexical_intervals_available_to_model": false,
+    "reference_orthographic_syllabification_available_for_output_mapping": true,
+    "postprocessing": "none",
+    "word_and_syllable_outputs": "shared_character_alignment"
+  }
+}

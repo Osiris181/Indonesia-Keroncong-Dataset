@@ -1,0 +1,12 @@
+# Local Python state
+**/__pycache__/
+**/*.py[cod]
+.venv/
+
+# Downloaded and source-separated audio is reconstructed locally.
+IKD_Dataset/Audio/
+
+# Generated baseline features, checkpoints, predictions, and detailed evaluations.
+Baseline_Experiments/**/outputs/
+archive/
+
