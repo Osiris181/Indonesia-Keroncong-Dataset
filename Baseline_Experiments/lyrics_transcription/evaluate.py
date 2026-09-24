@@ -193,20 +193,39 @@ def extract_hypotheses(
     aligned_unmasked_text = normalize_lexical_text(
         " ".join(str(word.get("word", "")) for word in aligned_words)
     )
+    untimestamped_word_count = sum(
+        word.get("start") is None or word.get("end") is None
+        for word in aligned_words
+    )
     if aligned_unmasked_text != unmasked_text:
+        if not intervals:
+            reconciliation = levenshtein_counts(
+                aligned_unmasked_text.split(), unmasked_text.split()
+            )
+            untimestamped_word_count += (
+                reconciliation.substitutions + reconciliation.insertions
+            )
+            return (
+                unmasked_text,
+                unmasked_text,
+                0,
+                untimestamped_word_count,
+            )
         raise ValueError(
-            "Aligned hypothesis words do not reconstruct the raw ASR hypothesis"
+            "Aligned hypothesis words do not reconstruct the raw ASR hypothesis "
+            "for a track requiring non-lexical masking"
         )
+
+    if not intervals:
+        return unmasked_text, unmasked_text, 0, untimestamped_word_count
 
     masked_words: list[str] = []
     masked_word_count = 0
-    untimestamped_word_count = 0
     for word in aligned_words:
         text = str(word.get("word", "")).strip()
         start = word.get("start")
         end = word.get("end")
         if start is None or end is None:
-            untimestamped_word_count += 1
             masked_words.append(text)
             continue
         if midpoint_is_masked(float(start), float(end), intervals):
@@ -535,9 +554,12 @@ def main() -> None:
     for (audio_source, track_id), prediction_path in sorted(predictions.items()):
         reference = reference_by_track[track_id]
         prediction = load_json(prediction_path)
-        masked_text, unmasked_text, masked_count, untimestamped_count = (
-            extract_hypotheses(prediction, reference["non_lexical_intervals"])
-        )
+        try:
+            masked_text, unmasked_text, masked_count, untimestamped_count = (
+                extract_hypotheses(prediction, reference["non_lexical_intervals"])
+            )
+        except ValueError as error:
+            raise ValueError(f"{audio_source}/{track_id}: {error}") from error
         for policy, hypothesis_text in (
             ("masked", masked_text),
             ("unmasked", unmasked_text),

@@ -73,9 +73,12 @@ Each prediction is scored under two policies:
   midpoint lies in an annotated non-lexical interval;
 - `unmasked`: retain the complete full-audio hypothesis.
 
-Untimestamped hypothesis words are retained under both policies. The evaluator
-also requires the aligned word sequence to reconstruct the raw ASR hypothesis
-after normalization before it applies the mask.
+Untimestamped hypothesis words are retained under both policies. For a
+recording with annotated non-lexical intervals, the evaluator requires the
+aligned word sequence to reconstruct the raw ASR hypothesis after normalization
+before applying the mask. When a recording has no non-lexical interval, the
+masked and unmasked hypotheses are identical by definition; raw ASR words that
+the CTC aligner could not timestamp are retained and counted as untimestamped.
 
 ## Run inference
 
