@@ -86,7 +86,7 @@
           "genre_counts": {
             "Keroncong Asli": 6,
             "Langgam": 5,
-            "Pop Keroncong": 4,
+            "Keroncong Extra": 4,
             "Stambul": 3
           },
           "syllables": 3946,
@@ -117,7 +117,7 @@
           "tracks": 6,
           "genre_counts": {
             "Keroncong Asli": 2,
-            "Pop Keroncong": 4
+            "Keroncong Extra": 4
           },
           "syllables": 1575,
           "no_melisma": 1041,
@@ -145,7 +145,7 @@
           "tracks": 6,
           "genre_counts": {
             "Keroncong Asli": 2,
-            "Pop Keroncong": 1,
+            "Keroncong Extra": 1,
             "Stambul": 3
           },
           "syllables": 1251,
@@ -202,7 +202,7 @@
           "genre_counts": {
             "Keroncong Asli": 7,
             "Langgam": 4,
-            "Pop Keroncong": 3,
+            "Keroncong Extra": 3,
             "Stambul": 5
           },
           "syllables": 3860,
@@ -232,7 +232,7 @@
           "genre_counts": {
             "Keroncong Asli": 1,
             "Langgam": 1,
-            "Pop Keroncong": 2,
+            "Keroncong Extra": 2,
             "Stambul": 1
           },
           "syllables": 1337,
@@ -263,7 +263,7 @@
           "tracks": 6,
           "genre_counts": {
             "Keroncong Asli": 2,
-            "Pop Keroncong": 4
+            "Keroncong Extra": 4
           },
           "syllables": 1575,
           "no_melisma": 1041,
@@ -320,7 +320,7 @@
           "genre_counts": {
             "Keroncong Asli": 7,
             "Langgam": 2,
-            "Pop Keroncong": 6,
+            "Keroncong Extra": 6,
             "Stambul": 3
           },
           "syllables": 4247,
@@ -351,7 +351,7 @@
           "genre_counts": {
             "Keroncong Asli": 2,
             "Langgam": 2,
-            "Pop Keroncong": 1,
+            "Keroncong Extra": 1,
             "Stambul": 2
           },
           "syllables": 1188,
@@ -381,7 +381,7 @@
           "genre_counts": {
             "Keroncong Asli": 1,
             "Langgam": 1,
-            "Pop Keroncong": 2,
+            "Keroncong Extra": 2,
             "Stambul": 1
           },
           "syllables": 1337,
@@ -439,7 +439,7 @@
           "genre_counts": {
             "Keroncong Asli": 5,
             "Langgam": 1,
-            "Pop Keroncong": 7,
+            "Keroncong Extra": 7,
             "Stambul": 4
           },
           "syllables": 4163,
@@ -469,7 +469,7 @@
           "genre_counts": {
             "Keroncong Asli": 3,
             "Langgam": 2,
-            "Pop Keroncong": 1
+            "Keroncong Extra": 1
           },
           "syllables": 1421,
           "no_melisma": 891,
@@ -499,7 +499,7 @@
           "genre_counts": {
             "Keroncong Asli": 2,
             "Langgam": 2,
-            "Pop Keroncong": 1,
+            "Keroncong Extra": 1,
             "Stambul": 2
           },
           "syllables": 1188,
@@ -558,7 +558,7 @@
           "genre_counts": {
             "Keroncong Asli": 5,
             "Langgam": 3,
-            "Pop Keroncong": 7,
+            "Keroncong Extra": 7,
             "Stambul": 3
           },
           "syllables": 4100,
@@ -587,7 +587,7 @@
           "tracks": 6,
           "genre_counts": {
             "Keroncong Asli": 2,
-            "Pop Keroncong": 1,
+            "Keroncong Extra": 1,
             "Stambul": 3
           },
           "syllables": 1251,
@@ -617,7 +617,7 @@
           "genre_counts": {
             "Keroncong Asli": 3,
             "Langgam": 2,
-            "Pop Keroncong": 1
+            "Keroncong Extra": 1
           },
           "syllables": 1421,
           "no_melisma": 891,

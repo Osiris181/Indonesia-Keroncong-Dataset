@@ -18,7 +18,7 @@ tasks:
 
 ## Dataset summary
 
-IKD covers four keroncong subgenres: Keroncong Asli, Langgam, Pop Keroncong,
+IKD covers four keroncong subgenres: Keroncong Asli, Langgam, Keroncong Extra,
 and Stambul. The 30 recordings represent 18 curated performer groups and
 include 25 Indonesian-language recordings, four Javanese-language recordings,
 and one recording containing a mixture of Indonesian regional languages.
@@ -158,3 +158,6 @@ Compact tables containing the paper results remain tracked under each task's
 Availability and content at external media URLs may change. Users are
 responsible for complying with the source platform terms and applicable
 copyright and licensing conditions.
+
+## 10-11-2026 Update
+**Metadata update:** “Pop Keroncong” has been renamed to “Keroncong Extra” to match the submitted paper. This change does not affect lyric or technique annotations, data splits, or reported results.
