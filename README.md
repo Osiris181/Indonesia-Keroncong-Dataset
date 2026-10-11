@@ -159,5 +159,5 @@ Availability and content at external media URLs may change. Users are
 responsible for complying with the source platform terms and applicable
 copyright and licensing conditions.
 
-## 10-11-2026 Update
+## 11-10-2026 Update
 **Metadata update:** “Pop Keroncong” has been renamed to “Keroncong Extra” to match the submitted paper. This change does not affect lyric or technique annotations, data splits, or reported results.
