@@ -161,3 +161,6 @@ copyright and licensing conditions.
 
 ## 11-10-2026 Update
 **Metadata update:** “Pop Keroncong” has been renamed to “Keroncong Extra” to match the submitted paper. This change does not affect lyric or technique annotations, data splits, or reported results.
+
+## 13-10-2026 Update
+**Metadata update:** Some of the singer's metadata are fixed to match a more acccurate information. This change once again does not affect any of the reported results

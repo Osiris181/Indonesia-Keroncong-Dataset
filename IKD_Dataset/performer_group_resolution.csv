@@ -1,7 +1,7 @@
 track_id,artist_source_value,artist,performer_group_id,performer_group_status
-IKD_001,Ika  Kurniawati,Ika  Kurniawati,Ika  Kurniawati,source_artist_label
+IKD_001,Ika  Kurniawati,Ika Kurniawati,Ika  Kurniawati,source_artist_label
 IKD_002,Mus Mulyadi,Mus Mulyadi,Mus Mulyadi,confirmed_user
-IKD_003,Remember Entertainment,Remember Entertainment,Remember Entertainment,source_label_proxy
+IKD_003,Remember Entertainment,Okky,Remember Entertainment,source_label_proxy
 IKD_004,Gesang,Gesang,Gesang,source_artist_label
 IKD_005,Fadhila,Fadhila,Fadhila,source_artist_label
 IKD_006,Dian Piesesha,Dian Piesesha,Dian Piesesha,source_artist_label

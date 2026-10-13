@@ -1,6 +1,6 @@
 outer_fold,base_fold,split,track_id,artist,genre,syllables,no_melisma,luk,cengkok,gregel,embat,nggandhul
 1,4,train,IKD_002,Mus Mulyadi,Stambul,133,85,42,11,10,1,2
-1,5,train,IKD_003,Remember Entertainment,Keroncong Extra,354,295,48,10,10,1,0
+1,5,train,IKD_003,Okky,Keroncong Extra,354,295,48,10,10,1,0
 1,4,train,IKD_004,Gesang,Keroncong Asli,152,95,51,1,4,5,4
 1,3,train,IKD_005,Fadhila,Langgam,175,113,50,4,27,2,0
 1,5,train,IKD_007,Sundari Soekotjo,Keroncong Asli,201,117,61,0,20,6,16
@@ -17,7 +17,7 @@ outer_fold,base_fold,split,track_id,artist,genre,syllables,no_melisma,luk,cengko
 1,4,train,IKD_027,Gesang,Langgam,148,45,38,11,23,52,25
 1,3,train,IKD_028,Tuti Tri Sedya,Keroncong Asli,200,56,49,32,35,53,32
 1,5,train,IKD_029,Sundari Soekotjo,Keroncong Asli,141,34,31,36,33,34,17
-1,2,validation,IKD_001,Ika  Kurniawati,Keroncong Asli,194,105,57,11,36,3,6
+1,2,validation,IKD_001,Ika Kurniawati,Keroncong Asli,194,105,57,11,36,3,6
 1,2,validation,IKD_006,Dian Piesesha,Keroncong Extra,207,130,63,1,18,1,10
 1,2,validation,IKD_008,Prapty Teng-Teng,Keroncong Extra,264,195,53,2,12,0,12
 1,2,validation,IKD_010,Yoriko Angeline,Keroncong Extra,300,252,43,1,8,2,1
@@ -30,7 +30,7 @@ outer_fold,base_fold,split,track_id,artist,genre,syllables,no_melisma,luk,cengko
 1,1,test,IKD_024,Toto Salmon,Stambul,213,81,39,41,33,52,32
 1,1,test,IKD_026,Toto Salmon,Stambul,160,60,43,19,20,43,27
 2,4,train,IKD_002,Mus Mulyadi,Stambul,133,85,42,11,10,1,2
-2,5,train,IKD_003,Remember Entertainment,Keroncong Extra,354,295,48,10,10,1,0
+2,5,train,IKD_003,Okky,Keroncong Extra,354,295,48,10,10,1,0
 2,4,train,IKD_004,Gesang,Keroncong Asli,152,95,51,1,4,5,4
 2,5,train,IKD_007,Sundari Soekotjo,Keroncong Asli,201,117,61,0,20,6,16
 2,1,train,IKD_009,Budi Doremi,Keroncong Extra,339,280,50,2,4,2,1
@@ -53,14 +53,14 @@ outer_fold,base_fold,split,track_id,artist,genre,syllables,no_melisma,luk,cengko
 2,3,validation,IKD_020,NIKEN SALINDRY FT SIHO,Keroncong Extra,400,338,48,2,6,5,4
 2,3,validation,IKD_025,Tuti Tri Sedya,Stambul,222,101,60,29,36,40,20
 2,3,validation,IKD_028,Tuti Tri Sedya,Keroncong Asli,200,56,49,32,35,53,32
-2,2,test,IKD_001,Ika  Kurniawati,Keroncong Asli,194,105,57,11,36,3,6
+2,2,test,IKD_001,Ika Kurniawati,Keroncong Asli,194,105,57,11,36,3,6
 2,2,test,IKD_006,Dian Piesesha,Keroncong Extra,207,130,63,1,18,1,10
 2,2,test,IKD_008,Prapty Teng-Teng,Keroncong Extra,264,195,53,2,12,0,12
 2,2,test,IKD_010,Yoriko Angeline,Keroncong Extra,300,252,43,1,8,2,1
 2,2,test,IKD_014,Prapty Teng-Teng,Keroncong Extra,374,297,68,0,12,3,3
 2,2,test,IKD_030,Indra Utami Tamsir,Keroncong Asli,236,62,34,50,43,56,25
-3,2,train,IKD_001,Ika  Kurniawati,Keroncong Asli,194,105,57,11,36,3,6
-3,5,train,IKD_003,Remember Entertainment,Keroncong Extra,354,295,48,10,10,1,0
+3,2,train,IKD_001,Ika Kurniawati,Keroncong Asli,194,105,57,11,36,3,6
+3,5,train,IKD_003,Okky,Keroncong Extra,354,295,48,10,10,1,0
 3,2,train,IKD_006,Dian Piesesha,Keroncong Extra,207,130,63,1,18,1,10
 3,5,train,IKD_007,Sundari Soekotjo,Keroncong Asli,201,117,61,0,20,6,16
 3,2,train,IKD_008,Prapty Teng-Teng,Keroncong Extra,264,195,53,2,12,0,12
@@ -89,7 +89,7 @@ outer_fold,base_fold,split,track_id,artist,genre,syllables,no_melisma,luk,cengko
 3,3,test,IKD_020,NIKEN SALINDRY FT SIHO,Keroncong Extra,400,338,48,2,6,5,4
 3,3,test,IKD_025,Tuti Tri Sedya,Stambul,222,101,60,29,36,40,20
 3,3,test,IKD_028,Tuti Tri Sedya,Keroncong Asli,200,56,49,32,35,53,32
-4,2,train,IKD_001,Ika  Kurniawati,Keroncong Asli,194,105,57,11,36,3,6
+4,2,train,IKD_001,Ika Kurniawati,Keroncong Asli,194,105,57,11,36,3,6
 4,3,train,IKD_005,Fadhila,Langgam,175,113,50,4,27,2,0
 4,2,train,IKD_006,Dian Piesesha,Keroncong Extra,207,130,63,1,18,1,10
 4,2,train,IKD_008,Prapty Teng-Teng,Keroncong Extra,264,195,53,2,12,0,12
@@ -106,7 +106,7 @@ outer_fold,base_fold,split,track_id,artist,genre,syllables,no_melisma,luk,cengko
 4,1,train,IKD_026,Toto Salmon,Stambul,160,60,43,19,20,43,27
 4,3,train,IKD_028,Tuti Tri Sedya,Keroncong Asli,200,56,49,32,35,53,32
 4,2,train,IKD_030,Indra Utami Tamsir,Keroncong Asli,236,62,34,50,43,56,25
-4,5,validation,IKD_003,Remember Entertainment,Keroncong Extra,354,295,48,10,10,1,0
+4,5,validation,IKD_003,Okky,Keroncong Extra,354,295,48,10,10,1,0
 4,5,validation,IKD_007,Sundari Soekotjo,Keroncong Asli,201,117,61,0,20,6,16
 4,5,validation,IKD_011,Paksi Raras Alit Band,Langgam,342,272,60,5,20,4,2
 4,5,validation,IKD_015,Sundari Soekotjo,Langgam,209,138,63,4,20,4,2
@@ -119,7 +119,7 @@ outer_fold,base_fold,split,track_id,artist,genre,syllables,no_melisma,luk,cengko
 4,4,test,IKD_018,Mus Mulyadi,Keroncong Asli,141,74,66,11,18,1,0
 4,4,test,IKD_023,Oslan Husein,Stambul,205,86,76,20,9,30,26
 4,4,test,IKD_027,Gesang,Langgam,148,45,38,11,23,52,25
-5,2,train,IKD_001,Ika  Kurniawati,Keroncong Asli,194,105,57,11,36,3,6
+5,2,train,IKD_001,Ika Kurniawati,Keroncong Asli,194,105,57,11,36,3,6
 5,4,train,IKD_002,Mus Mulyadi,Stambul,133,85,42,11,10,1,2
 5,4,train,IKD_004,Gesang,Keroncong Asli,152,95,51,1,4,5,4
 5,3,train,IKD_005,Fadhila,Langgam,175,113,50,4,27,2,0
@@ -143,7 +143,7 @@ outer_fold,base_fold,split,track_id,artist,genre,syllables,no_melisma,luk,cengko
 5,1,validation,IKD_021,Toto Salmon,Keroncong Asli,210,32,62,21,37,80,50
 5,1,validation,IKD_024,Toto Salmon,Stambul,213,81,39,41,33,52,32
 5,1,validation,IKD_026,Toto Salmon,Stambul,160,60,43,19,20,43,27
-5,5,test,IKD_003,Remember Entertainment,Keroncong Extra,354,295,48,10,10,1,0
+5,5,test,IKD_003,Okky,Keroncong Extra,354,295,48,10,10,1,0
 5,5,test,IKD_007,Sundari Soekotjo,Keroncong Asli,201,117,61,0,20,6,16
 5,5,test,IKD_011,Paksi Raras Alit Band,Langgam,342,272,60,5,20,4,2
 5,5,test,IKD_015,Sundari Soekotjo,Langgam,209,138,63,4,20,4,2
